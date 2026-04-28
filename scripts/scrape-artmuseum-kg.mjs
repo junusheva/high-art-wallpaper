@@ -70,6 +70,11 @@ function parseCards(html) {
     .filter(Boolean);
 }
 
+function getDetailImageUrl(html) {
+  const fullImagePath = html.match(/<div id="lightgallery">[\s\S]*?<a[^>]+data-src="([^"]+)"/)?.[1];
+  return fullImagePath ? absoluteUrl(fullImagePath) : "";
+}
+
 async function fetchText(url) {
   const response = await fetch(url);
 
@@ -80,14 +85,38 @@ async function fetchText(url) {
   return response.text();
 }
 
+async function hydrateDetailImages(artworks) {
+  const hydrated = [];
+
+  for (const artwork of artworks) {
+    try {
+      const detailHtml = await fetchText(artwork.recordUrl);
+      const detailImageUrl = getDetailImageUrl(detailHtml);
+
+      hydrated.push({
+        ...artwork,
+        previewImageUrl: artwork.imageUrl,
+        imageUrl: detailImageUrl || artwork.imageUrl,
+      });
+    } catch (error) {
+      console.warn(`Could not fetch detail image for ${artwork.recordUrl}: ${error.message}`);
+      hydrated.push(artwork);
+    }
+  }
+
+  return hydrated;
+}
+
 const firstPageHtml = await fetchText(START_URL);
 const lastPage = Math.min(getLastPage(firstPageHtml), MAX_PAGES);
-const artworks = parseCards(firstPageHtml);
+const cardArtworks = parseCards(firstPageHtml);
 
 for (let page = 2; page <= lastPage; page += 1) {
   const html = await fetchText(`${START_URL}?page=${page}`);
-  artworks.push(...parseCards(html));
+  cardArtworks.push(...parseCards(html));
 }
+
+const artworks = await hydrateDetailImages(cardArtworks);
 
 await mkdir(new URL("../data", import.meta.url), { recursive: true });
 const manifest = {

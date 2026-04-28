@@ -6,9 +6,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d80e5dfa51340cd08fc96829915d9bbe4c57e78/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9035%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BB%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D0%B0%20%D0%9B%D0%9A%D0%A1%D0%9C%20%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D0%B8%20%D0%90.%20%D0%94%D0%B6%D0%B0%D0%BC%D0%B0%D0%BB%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d80e5dfa51340cd08fc96829915d9bbe4c57e78/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkxTml3Z016TXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--11c79ef1cda1ad3c7d4677e161172479b72bd5ba/261A9035%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BB%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D0%B0%20%D0%9B%D0%9A%D0%A1%D0%9C%20%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D0%B8%20%D0%90.%20%D0%94%D0%B6%D0%B0%D0%BC%D0%B0%D0%BB%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/871/show_painting?locale=en",
-    "alt": "Портрет лауреата ЛКСМ Киргизии А.Джамалдиновой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет лауреата ЛКСМ Киргизии А.Джамалдиновой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1FJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d80e5dfa51340cd08fc96829915d9bbe4c57e78/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9035%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BB%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D0%B0%20%D0%9B%D0%9A%D0%A1%D0%9C%20%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D0%B8%20%D0%90.%20%D0%94%D0%B6%D0%B0%D0%BC%D0%B0%D0%BB%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -17,9 +18,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Бытовой",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--365dc949d5efc13a2616c0ee0d6a637b15b6cc9b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%20%D0%B1%D0%B0%D0%B7%D0%B0%D1%80%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--365dc949d5efc13a2616c0ee0d6a637b15b6cc9b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGMwTVN3Z016UTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--3c33951ab7d4a1792728f056677793b39d24e63d/%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%20%D0%B1%D0%B0%D0%B7%D0%B0%D1%80%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/403/show_painting?locale=en",
-    "alt": "Уголок базара from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Уголок базара from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--365dc949d5efc13a2616c0ee0d6a637b15b6cc9b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA%20%D0%B1%D0%B0%D0%B7%D0%B0%D1%80%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -28,9 +30,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--50f3ef8c1ce2dd0b1aad53ca7ee1b26476a5131b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A7%D0%B0%D0%BB%D1%8B%D0%BD-%20%D0%90%D1%82%D0%B0.%20%D0%AD%D1%82%D1%8E%D0%B4.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--50f3ef8c1ce2dd0b1aad53ca7ee1b26476a5131b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV6Tml3Z016QTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--9c88aa51bd4175b9dd8f3d59ef0447dee1c6e3a7/%D0%A7%D0%B0%D0%BB%D1%8B%D0%BD-%20%D0%90%D1%82%D0%B0.%20%D0%AD%D1%82%D1%8E%D0%B4.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/405/show_painting?locale=en",
-    "alt": "Чалын-Ата. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Чалын-Ата. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--50f3ef8c1ce2dd0b1aad53ca7ee1b26476a5131b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A7%D0%B0%D0%BB%D1%8B%D0%BD-%20%D0%90%D1%82%D0%B0.%20%D0%AD%D1%82%D1%8E%D0%B4.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -39,9 +42,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1934-1987)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--163c22a90463464e8b75de4d7827f7620819f871/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/7543-2077.%D0%9D%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--163c22a90463464e8b75de4d7827f7620819f871/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGMwTWl3Z016UTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a4db47f99fa3a901b2713b6b2563ca61a718c0b5/7543-2077.%D0%9D%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1049/show_painting?locale=en",
-    "alt": "На работу from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "На работу from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--163c22a90463464e8b75de4d7827f7620819f871/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/7543-2077.%D0%9D%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -50,9 +54,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a0a9021ccc1ef42d794e9cf9ab49e58f64dabb5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BD%D0%B5%D0%B3.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a0a9021ccc1ef42d794e9cf9ab49e58f64dabb5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV4TWl3Z01qSXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee612ab6d684e73a15a2339bbdae8f66c91411fb/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BD%D0%B5%D0%B3.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/78/show_painting?locale=en",
-    "alt": "Первый снег from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Первый снег from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a0a9021ccc1ef42d794e9cf9ab49e58f64dabb5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BD%D0%B5%D0%B3.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -61,9 +66,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Морской пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f900b272db946d55ab209c66bdff6c06a4a96d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9%20%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f900b272db946d55ab209c66bdff6c06a4a96d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFk0T0N3Z016TTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--541422c8b4423ae7a1d823c9e9cab06d6b8aaa67/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9%20%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/200/show_painting?locale=en",
-    "alt": "Голубой Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Голубой Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f900b272db946d55ab209c66bdff6c06a4a96d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9%20%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -72,9 +78,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--effe920a55c2c1681f51ad7880d2703f03858f62/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D1%8B.%201950.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--effe920a55c2c1681f51ad7880d2703f03858f62/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPVGswTENBeE9Ua3NJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--3ebe22b512fd24d871eafaad3e415e43d77e1a08/%D0%93%D0%BE%D1%80%D1%8B.%201950.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/202/show_painting?locale=en",
-    "alt": "Горы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Горы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--effe920a55c2c1681f51ad7880d2703f03858f62/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D1%8B.%201950.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -83,9 +90,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47df135c81ca0030ee892c6e5155c3cea7ce738d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9016%20%D0%A2%D0%B8%D1%88%D0%B8%D0%BD%D0%B0.%2011055.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47df135c81ca0030ee892c6e5155c3cea7ce738d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkxTml3Z016TXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--11c79ef1cda1ad3c7d4677e161172479b72bd5ba/261A9016%20%D0%A2%D0%B8%D1%88%D0%B8%D0%BD%D0%B0.%2011055.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/864/show_painting?locale=en",
-    "alt": "Тишина from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Тишина from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47df135c81ca0030ee892c6e5155c3cea7ce738d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9016%20%D0%A2%D0%B8%D1%88%D0%B8%D0%BD%D0%B0.%2011055.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -94,9 +102,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--faefa0dd0232b788d62fd085e809e3716123456f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9018%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%93%D0%B5%D1%80%D0%BE%D1%8F%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%A2%D1%80%D1%83%D0%B4%D0%B0%20%D0%A8%D0%BE%D0%BF%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9.1239.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--faefa0dd0232b788d62fd085e809e3716123456f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl4TUN3Z016SXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ae99e60ae3e89a8edf472a57dddf90b8f81a112e/261A9018%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%93%D0%B5%D1%80%D0%BE%D1%8F%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%A2%D1%80%D1%83%D0%B4%D0%B0%20%D0%A8%D0%BE%D0%BF%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9.1239.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/865/show_painting?locale=en",
-    "alt": "Портрет Героя Социалистического Труда Шопоковой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет Героя Социалистического Труда Шопоковой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--faefa0dd0232b788d62fd085e809e3716123456f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9018%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%93%D0%B5%D1%80%D0%BE%D1%8F%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%A2%D1%80%D1%83%D0%B4%D0%B0%20%D0%A8%D0%BE%D0%BF%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9.1239.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -105,9 +114,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58cdfca59651fa8f3eca145eddd61523d0927e34/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9012%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%D0%BF%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%BE%D0%B2%D1%86%D0%B0%20%20%D0%90.%20%D0%AE.%20%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D0%B0.%20411.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58cdfca59651fa8f3eca145eddd61523d0927e34/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkwT0N3Z016TXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--318d3b7af0d86ca7e1e723208ab5c63930060fd8/261A9012%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%D0%BF%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%BE%D0%B2%D1%86%D0%B0%20%20%D0%90.%20%D0%AE.%20%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D0%B0.%20411.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/863/show_painting?locale=en",
-    "alt": "Портрет панфиловца А.Ю.Юсупова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет панфиловца А.Ю.Юсупова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcndJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--58cdfca59651fa8f3eca145eddd61523d0927e34/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9012%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%D0%BF%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%BE%D0%B2%D1%86%D0%B0%20%20%D0%90.%20%D0%AE.%20%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D0%B0.%20411.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -116,9 +126,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d0c972a02f36ba2c373d549968054c557c60e04/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%AF%D0%BB%D1%82%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d0c972a02f36ba2c373d549968054c557c60e04/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN3TXl3Z016UXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--d0c372643c00d95626395a0a29e0e78a8f2b06dc/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%AF%D0%BB%D1%82%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/203/show_painting?locale=en",
-    "alt": "Дорога. Ялта from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Дорога. Ялта from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d0c972a02f36ba2c373d549968054c557c60e04/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%AF%D0%BB%D1%82%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -127,9 +138,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1933-1995",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalFIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f6be33bf6d47028b3318cd6db8f7c695d584393/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80.1984.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalFIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f6be33bf6d47028b3318cd6db8f7c695d584393/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3TlN3Z01qSXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--9300cd49bde211e803ac6960f6369308e8233161/%D0%92%D0%B5%D1%87%D0%B5%D1%80.1984.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/5/show_painting?locale=en",
-    "alt": "Вечер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вечер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalFIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f6be33bf6d47028b3318cd6db8f7c695d584393/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80.1984.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -138,9 +150,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1913-1979)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--06d49c732107fca8daf0c85da780ed825a52b63c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%20%D1%83%D1%82%D1%80%D0%BE%20.86-86.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--06d49c732107fca8daf0c85da780ed825a52b63c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFk0T0N3Z016TTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--541422c8b4423ae7a1d823c9e9cab06d6b8aaa67/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%20%D1%83%D1%82%D1%80%D0%BE%20.86-86.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/920/show_painting?locale=en",
-    "alt": "Осеннее утро from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Осеннее утро from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--06d49c732107fca8daf0c85da780ed825a52b63c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%20%D1%83%D1%82%D1%80%D0%BE%20.86-86.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -149,9 +162,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1957",
     "genre": "-",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a4131f1384a4dac743a1d8e5e37139c80e51ae9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D0%BA%D0%B0%20.10664-2678.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a4131f1384a4dac743a1d8e5e37139c80e51ae9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkzTlN3Z016TTFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--964393d142c0b2c6800cdf06526190fdf59a441f/%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D0%BA%D0%B0%20.10664-2678.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/805/show_painting?locale=en",
-    "alt": "Курилка. Эскиз к картине «Приют для совершеннолетних» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Курилка. Эскиз к картине «Приют для совершеннолетних» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a4131f1384a4dac743a1d8e5e37139c80e51ae9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D0%BA%D0%B0%20.10664-2678.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -160,9 +174,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1906-1998)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6709ae86437e86ff3ccfc095f7e79172d66fad41/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A6527%20%20%20%20%D0%98%D1%81%D1%81%D1%8B%D0%BA%20-%D0%9A%D1%83%D0%BB%D1%8C.%20735.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6709ae86437e86ff3ccfc095f7e79172d66fad41/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGMwTnl3Z016UTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a337deb4335ceef0347b2a743c59367b8614e2bd/261A6527%20%20%20%20%D0%98%D1%81%D1%81%D1%8B%D0%BA%20-%D0%9A%D1%83%D0%BB%D1%8C.%20735.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/642/show_painting?locale=en",
-    "alt": "Иссык -Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Иссык -Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6709ae86437e86ff3ccfc095f7e79172d66fad41/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A6527%20%20%20%20%D0%98%D1%81%D1%81%D1%8B%D0%BA%20-%D0%9A%D1%83%D0%BB%D1%8C.%20735.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -171,9 +186,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5672b89c98b2ef1e644b6e40c8b9efd598c43875/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9022%20%D0%9F%D0%B0%D1%88%D0%BD%D1%8F%20.11947.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5672b89c98b2ef1e644b6e40c8b9efd598c43875/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl3TUN3Z016SXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--fc4ebe978f03cd924a8dc80802a25dcea17618a4/261A9022%20%D0%9F%D0%B0%D1%88%D0%BD%D1%8F%20.11947.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/866/show_painting?locale=en",
-    "alt": "Пашня from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Пашня from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5672b89c98b2ef1e644b6e40c8b9efd598c43875/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9022%20%D0%9F%D0%B0%D1%88%D0%BD%D1%8F%20.11947.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -182,9 +198,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da949818b3ac802f3bd7817064f9f641839c9e6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9027%20%D0%94%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D0%BD.%206638.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da949818b3ac802f3bd7817064f9f641839c9e6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN6TWl3Z016UTJMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--e83bf79c15b4d3003b3d27963201c0e40657e10f/261A9027%20%D0%94%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D0%BD.%206638.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/868/show_painting?locale=en",
-    "alt": "Джаркын from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Джаркын from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da949818b3ac802f3bd7817064f9f641839c9e6e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9027%20%D0%94%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D0%BD.%206638.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -193,9 +210,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0FJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--016c201628b79e134f4e026d4770707f06f785d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9025%20%D0%90%D1%81%D0%B8%D0%B4%D0%B0%20%E2%80%93%D0%B4%D0%BE%D1%87%D1%8C%20%D0%90%D0%BB%D1%82%D1%8B%D0%BC%D1%8B%D1%88%D0%B0%20.1185.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0FJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--016c201628b79e134f4e026d4770707f06f785d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl6Tnl3Z016STNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1327b2f636b5b8b91b1831cdfbbe2c0504eee3d1/261A9025%20%D0%90%D1%81%D0%B8%D0%B4%D0%B0%20%E2%80%93%D0%B4%D0%BE%D1%87%D1%8C%20%D0%90%D0%BB%D1%82%D1%8B%D0%BC%D1%8B%D1%88%D0%B0%20.1185.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/867/show_painting?locale=en",
-    "alt": "Асида - дочь Алтымыша from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Асида - дочь Алтымыша from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0FJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--016c201628b79e134f4e026d4770707f06f785d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9025%20%D0%90%D1%81%D0%B8%D0%B4%D0%B0%20%E2%80%93%D0%B4%D0%BE%D1%87%D1%8C%20%D0%90%D0%BB%D1%82%D1%8B%D0%BC%D1%8B%D1%88%D0%B0%20.1185.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -204,9 +222,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--191ca2ea4fe410b4d70e1eee7cc5eea887113559/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/15798.%20%D0%9F%D0%BE%D1%8E%20%D0%BC%D0%BE%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B9.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--191ca2ea4fe410b4d70e1eee7cc5eea887113559/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV6TkN3Z016QTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--b90201e81a709479b262d4014b1fadba9014db58/15798.%20%D0%9F%D0%BE%D1%8E%20%D0%BC%D0%BE%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B9.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1009/show_painting?locale=en",
-    "alt": "Пою, мой край! from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Пою, мой край! from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--191ca2ea4fe410b4d70e1eee7cc5eea887113559/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/15798.%20%D0%9F%D0%BE%D1%8E%20%D0%BC%D0%BE%D0%B9%20%D0%BA%D1%80%D0%B0%D0%B9.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -215,9 +234,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3772c0d8c4dd762818df427f5efd01669fe295c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9030%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%9B%D0%B8%20%D0%92.%20%D0%A1.%20746.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3772c0d8c4dd762818df427f5efd01669fe295c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFExTXl3Z01qa3hMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a0548dab9d7e3ede507c67e95b1d09bbba1a7629/261A9030%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%9B%D0%B8%20%D0%92.%20%D0%A1.%20746.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/869/show_painting?locale=en",
-    "alt": "Портрет политработника В.С.Ли from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет политработника В.С.Ли from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b3772c0d8c4dd762818df427f5efd01669fe295c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9030%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%9B%D0%B8%20%D0%92.%20%D0%A1.%20746.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -226,9 +246,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--875c028fd930abf82aaa715f025c81c785d7d15d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%97%D0%B0%D0%BB%D0%B8%D0%B2.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--875c028fd930abf82aaa715f025c81c785d7d15d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE0Tml3Z01qRTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--563b77d0e9853675fbc45f2f7957bb9bfc13ba15/%D0%97%D0%B0%D0%BB%D0%B8%D0%B2.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/204/show_painting?locale=en",
-    "alt": "Залив from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Залив from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--875c028fd930abf82aaa715f025c81c785d7d15d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%97%D0%B0%D0%BB%D0%B8%D0%B2.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -237,9 +258,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Индустриальный пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cef9d3fa4280e46b94c9401b155179890d8a0344/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/5023%20%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%20%D0%B2%20%D0%B3.%20%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cef9d3fa4280e46b94c9401b155179890d8a0344/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGMzT0N3Z016VTJMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--440c3771f56a4a7ac3614bb98cc4aa71ec3e6983/5023%20%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%20%D0%B2%20%D0%B3.%20%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/994/show_painting?locale=en",
-    "alt": "Строительство Ленинского мемориала в г.Ульяновске from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Строительство Ленинского мемориала в г.Ульяновске from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cef9d3fa4280e46b94c9401b155179890d8a0344/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/5023%20%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%20%D0%B2%20%D0%B3.%20%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -248,9 +270,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8f58a96f401cdd0f19db69e9ca24bbae3e22d5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8f58a96f401cdd0f19db69e9ca24bbae3e22d5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN4TkN3Z016UXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--64dcd3ac9fcab05a1201b239f18d5fcb93e50075/%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/184/show_painting?locale=en",
-    "alt": "Ай-Петри from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Ай-Петри from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8f58a96f401cdd0f19db69e9ca24bbae3e22d5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -259,9 +282,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1913-1979)",
     "genre": "Сельский пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5eb3739a3a7a41cbf4bd14ae9e4369620645e03/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F.53-53.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5eb3739a3a7a41cbf4bd14ae9e4369620645e03/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkxTml3Z016TXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--11c79ef1cda1ad3c7d4677e161172479b72bd5ba/%D0%9D%D0%B0%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F.53-53.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/918/show_painting?locale=en",
-    "alt": "На колхозные поля from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "На колхозные поля from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5eb3739a3a7a41cbf4bd14ae9e4369620645e03/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F.53-53.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -270,9 +294,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1913-1979)",
     "genre": "Сельский пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89441d7292962a0d5ba60d317ab9bc27238133eb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9%20%D1%81%D1%82%D0%B0%D0%BD.%201755.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89441d7292962a0d5ba60d317ab9bc27238133eb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGd5T0N3Z016WTJMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--59024f361149e3a0a76827c9bad6a983d645f9aa/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9%20%D1%81%D1%82%D0%B0%D0%BD.%201755.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/924/show_painting?locale=en",
-    "alt": "Полевой стан from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Полевой стан from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89441d7292962a0d5ba60d317ab9bc27238133eb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9%20%D1%81%D1%82%D0%B0%D0%BD.%201755.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -281,9 +306,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2790ddd0e37aad5dd9fdf76391d576d1a91f85c6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A4%D0%B8%D0%B3%D1%83%D1%80%D0%B0%20%D1%8E%D0%BD%D0%BE%D1%88%D0%B8.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2790ddd0e37aad5dd9fdf76391d576d1a91f85c6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl4TXl3Z016SXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--fdd5469f8c2266c72fb45853ff2d5a8ecd47274b/%D0%A4%D0%B8%D0%B3%D1%83%D1%80%D0%B0%20%D1%8E%D0%BD%D0%BE%D1%88%D0%B8.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/404/show_painting?locale=en",
-    "alt": "Фигура юноши from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Фигура юноши from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2790ddd0e37aad5dd9fdf76391d576d1a91f85c6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A4%D0%B8%D0%B3%D1%83%D1%80%D0%B0%20%D1%8E%D0%BD%D0%BE%D1%88%D0%B8.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -292,9 +318,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Морской пейзаж",
     "medium": "Холст, картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97e5d298cb3ee808a0f9ffef5c467bb5b3ce5545/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.1957.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97e5d298cb3ee808a0f9ffef5c467bb5b3ce5545/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFEzTml3Z01qazFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1e608bfc48bf227dacb9174f91c7c9f9d9ebf786/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.1957.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/206/show_painting?locale=en",
-    "alt": "Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97e5d298cb3ee808a0f9ffef5c467bb5b3ce5545/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.1957.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -303,9 +330,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1933-1995",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajBIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5d46231452b28c52aac3bada079a8884c3b4e93/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C%20%D0%B2%20%D0%91%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%B8.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajBIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5d46231452b28c52aac3bada079a8884c3b4e93/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3T1N3Z01qSXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--9ce914f285ea25b7cbeabca5180f5ccf0dad0c83/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C%20%D0%B2%20%D0%91%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%B8.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/20/show_painting?locale=en",
-    "alt": "Осень в Бостери from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Осень в Бостери from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajBIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5d46231452b28c52aac3bada079a8884c3b4e93/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C%20%D0%B2%20%D0%91%D0%BE%D1%81%D1%82%D0%B5%D1%80%D0%B8.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -314,9 +342,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1933-1995",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b3f38579e42fa1645bbd1e81ddc7a80dd73ff16/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D1%80%D0%B5%D0%B2%D0%BE.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b3f38579e42fa1645bbd1e81ddc7a80dd73ff16/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEzTml3Z01qRTFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--508ca5e95cc4d1aadbce8b75fa6dfddc0ecb7f4b/%D0%9C%D0%B0%D1%80%D0%B5%D0%B2%D0%BE.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/14/show_painting?locale=en",
-    "alt": "Марево from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Марево from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b3f38579e42fa1645bbd1e81ddc7a80dd73ff16/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D1%80%D0%B5%D0%B2%D0%BE.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -325,9 +354,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8257d50e6410949fcb37a9682b25dd0e89e10cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/151.%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D1%8B%20%D0%91%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%A1..JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8257d50e6410949fcb37a9682b25dd0e89e10cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkyTXl3Z016TXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--02d0c96ec620779b5405f26ced94ac0ad885ad4d/151.%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D1%8B%20%D0%91%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%A1..JPG",
     "recordUrl": "https://artmuseum.kg/galleries/984/show_painting?locale=en",
-    "alt": "Портрет певицы С.Бекмуратовой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет певицы С.Бекмуратовой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c8257d50e6410949fcb37a9682b25dd0e89e10cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/151.%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D1%8B%20%D0%91%D0%B5%D0%BA%D0%BC%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%A1..JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -336,9 +366,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b00727db52dabeac9f2e2d1a4352cf4b90ebda7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D0%B5%D1%80%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.%20%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D0%B0%D0%BA%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b00727db52dabeac9f2e2d1a4352cf4b90ebda7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV4TlN3Z01qSXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--2e31f807cc713864c72cef7b79514fd2923f8a05/%D0%9A%D0%B5%D1%80%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.%20%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D0%B0%D0%BA%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/208/show_painting?locale=en",
-    "alt": "Низка табака from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Низка табака from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b00727db52dabeac9f2e2d1a4352cf4b90ebda7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D0%B5%D1%80%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.%20%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D0%B0%D0%BA%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -347,9 +378,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0008ada7871588314c2bbff738b19bff0fc41750/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D0%BB%D0%B5%D0%B2%D0%B0%D1%82%D0%BE%D1%80.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0008ada7871588314c2bbff738b19bff0fc41750/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl5Tnl3Z016STFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--923c2f951257ff15e778ebd1bbf08e3ba028ffd1/%D0%AD%D0%BB%D0%B5%D0%B2%D0%B0%D1%82%D0%BE%D1%80.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/407/show_painting?locale=en",
-    "alt": "Элеватор from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Элеватор from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0008ada7871588314c2bbff738b19bff0fc41750/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D0%BB%D0%B5%D0%B2%D0%B0%D1%82%D0%BE%D1%80.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -358,9 +390,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1941-2016)",
     "genre": "Групповой портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63c9894f5857d08e5358981a9b4a184e49fba429/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A6571%20%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%81%D1%82%D0%BA%D0%B8%2030-%D1%85%20%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63c9894f5857d08e5358981a9b4a184e49fba429/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFF6TkN3Z01qZzNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--66294841fed63e419eee30b219248d86a1b63ff1/261A6571%20%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%81%D1%82%D0%BA%D0%B8%2030-%D1%85%20%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/462/show_painting?locale=en",
-    "alt": "Активистки 30-х годов from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Активистки 30-х годов from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63c9894f5857d08e5358981a9b4a184e49fba429/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A6571%20%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%81%D1%82%D0%BA%D0%B8%2030-%D1%85%20%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -369,9 +402,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Морской пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b75c342c2ddc0aed8bd41aeda727d69bf2950d2b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%20%D0%BC%D0%B5%D1%81%D1%82%D0%B0%D1%85%20%D0%B1%D1%8B%D0%BB%D1%8B%D1%85%20%D0%B1%D0%BE%D0%B5%D0%B2.%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b75c342c2ddc0aed8bd41aeda727d69bf2950d2b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV6Tml3Z01qSTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--f0b812c6ec88fe062bad6c51638a26b2c74db0aa/%D0%9D%D0%B0%20%D0%BC%D0%B5%D1%81%D1%82%D0%B0%D1%85%20%D0%B1%D1%8B%D0%BB%D1%8B%D1%85%20%D0%B1%D0%BE%D0%B5%D0%B2.%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/214/show_painting?locale=en",
-    "alt": "На местах былых боев. Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "На местах былых боев. Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b75c342c2ddc0aed8bd41aeda727d69bf2950d2b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%20%D0%BC%D0%B5%D1%81%D1%82%D0%B0%D1%85%20%D0%B1%D1%8B%D0%BB%D1%8B%D1%85%20%D0%B1%D0%BE%D0%B5%D0%B2.%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -380,9 +414,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1933-1995",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaklIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40531ab13b8e0ce0f095f075033fbbaa3a9b477c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0%20%D0%B2%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaklIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40531ab13b8e0ce0f095f075033fbbaa3a9b477c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEU0TVN3Z01qTTJMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--df1c7cd57b31b02da694e494c361040b65c89720/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0%20%D0%B2%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/17/show_painting?locale=en",
-    "alt": "Облака в долине from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Облака в долине from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaklIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40531ab13b8e0ce0f095f075033fbbaa3a9b477c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0%20%D0%B2%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -391,9 +426,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Исторический",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd601f8e8b4758528107131d82d54b45c7268da6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%D0%B5%20%D0%92%20%D1%80%D1%8F%D0%B4%20%D0%BA%20%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd601f8e8b4758528107131d82d54b45c7268da6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEUxTUN3Z01qTXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--979d03f9695fc4d57b3a17fab042a2c4c965a152/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%D0%B5%20%D0%92%20%D1%80%D1%8F%D0%B4%20%D0%BA%20%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/408/show_painting?locale=en",
-    "alt": "Эскиз к картине «В отряд к Фрунзе» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Эскиз к картине «В отряд к Фрунзе» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWdJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd601f8e8b4758528107131d82d54b45c7268da6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D0%B8%D1%82%D0%B8%D0%BD%D0%B5%20%D0%92%20%D1%80%D1%8F%D0%B4%20%D0%BA%20%D0%A4%D1%80%D1%83%D0%BD%D0%B7%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -402,9 +438,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1941-2016)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69156cafc5ccd0268a5673683bb7835ef848fa31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A6559.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69156cafc5ccd0268a5673683bb7835ef848fa31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFUyTml3Z016RXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--d97ec4677b3b1e2442c8abe23b64cc316817bd6a/261A6559.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/464/show_painting?locale=en",
-    "alt": "День from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "День from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69156cafc5ccd0268a5673683bb7835ef848fa31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A6559.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -413,9 +450,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Натюрморт",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29a2eba21aabf1caeac1243b9fa7349f3862e4b8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%D1%82%D1%8E%D1%80%D0%BC%D0%BE%D1%80%D1%82.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29a2eba21aabf1caeac1243b9fa7349f3862e4b8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFEzTlN3Z01qazFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--66151589a44a082194683dc763f50ae547e30807/%D0%9D%D0%B0%D1%82%D1%8E%D1%80%D0%BC%D0%BE%D1%80%D1%82.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/216/show_painting?locale=en",
-    "alt": "Натюрморт from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Натюрморт from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--29a2eba21aabf1caeac1243b9fa7349f3862e4b8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%D1%82%D1%8E%D1%80%D0%BC%D0%BE%D1%80%D1%82.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -424,9 +462,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Бытовой",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d0ba0b366670cf7335acdf342ae78104102accf0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%20%D0%A1%D0%B0%D0%BA%D0%BC%D0%B0%D0%BB.jpg",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d0ba0b366670cf7335acdf342ae78104102accf0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV3Tml3Z016QXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--15552becdf33a317db9742b338e85ee7856a62c1/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%20%D0%A1%D0%B0%D0%BA%D0%BC%D0%B0%D0%BB.jpg",
     "recordUrl": "https://artmuseum.kg/galleries/409/show_painting?locale=en",
-    "alt": "Эскиз к картине «Сакмал» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Эскиз к картине «Сакмал» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d0ba0b366670cf7335acdf342ae78104102accf0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%20%D0%A1%D0%B0%D0%BA%D0%BC%D0%B0%D0%BB.jpg"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -435,9 +474,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1953",
     "genre": "Исторический",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b9c902f5db5f0b4a1772cb3417ec2f9c0d0a32c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9458%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B%20.9900.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b9c902f5db5f0b4a1772cb3417ec2f9c0d0a32c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF4TlN3Z01qQXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1d27d0b0bd7cddc10bdd2c9b2f47085d7a466fa2/261A9458%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B%20.9900.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/837/show_painting?locale=en",
-    "alt": "Первые декреты from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Первые декреты from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b9c902f5db5f0b4a1772cb3417ec2f9c0d0a32c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9458%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B%20.9900.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -446,9 +486,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1953",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a2d8394325b86ba7290fd91873803913a3ac608/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9442%20%D0%9A%D0%BB%D1%8F%D1%82%D0%B2%D0%B0.9293.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a2d8394325b86ba7290fd91873803913a3ac608/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPVFU1TENBeE9USXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--91d4768f2ae88e73b708957c31b74f1ee4bc4d98/261A9442%20%D0%9A%D0%BB%D1%8F%D1%82%D0%B2%D0%B0.9293.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/838/show_painting?locale=en",
-    "alt": "Клятва from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Клятва from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a2d8394325b86ba7290fd91873803913a3ac608/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9442%20%D0%9A%D0%BB%D1%8F%D1%82%D0%B2%D0%B0.9293.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -457,9 +498,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-2003)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47806638e8bb84eeef635fd2174266df3a29bb65/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9038%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B0%20%D0%9A.%20%D0%A3%D1%81%D0%B5%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47806638e8bb84eeef635fd2174266df3a29bb65/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN4Tnl3Z016UXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c14f0f3d4af1440b17c3b54d5c860c455f8f1bd9/261A9038%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B0%20%D0%9A.%20%D0%A3%D1%81%D0%B5%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/872/show_painting?locale=en",
-    "alt": "Портрет генерала К.Усенбекова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет генерала К.Усенбекова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47806638e8bb84eeef635fd2174266df3a29bb65/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9038%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B0%20%D0%9A.%20%D0%A3%D1%81%D0%B5%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -468,9 +510,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ddf2d0476692cda914d100d78d00155b8f5bb1e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0.%201957.51,5%D1%855%D1%8582.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ddf2d0476692cda914d100d78d00155b8f5bb1e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkyT1N3Z016TTBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--625a501a46eaaa9b4308bafa6f9a7ee4864758f4/%D0%9E%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0.%201957.51,5%D1%855%D1%8582.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/218/show_painting?locale=en",
-    "alt": "Окрестности Пржевальска from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Окрестности Пржевальска from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ddf2d0476692cda914d100d78d00155b8f5bb1e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0.%201957.51,5%D1%855%D1%8582.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -479,9 +522,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Сельский пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6a68c64a720d4d434e21eca458ac151dfa4dde40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6a68c64a720d4d434e21eca458ac151dfa4dde40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE1TXl3Z01qRTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--50dde0bc33e97f3360809a244a48afbf0d52295b/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/220/show_painting?locale=en",
-    "alt": "Пейзаж from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Пейзаж from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdThJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6a68c64a720d4d434e21eca458ac151dfa4dde40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -490,9 +534,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Морской пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1abfedf3025626b5148c9084a6607940a8f5edef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0%201969.%2050%D1%8568,5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1abfedf3025626b5148c9084a6607940a8f5edef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkyT1N3Z016TTBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--625a501a46eaaa9b4308bafa6f9a7ee4864758f4/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0%201969.%2050%D1%8568,5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/224/show_painting?locale=en",
-    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1abfedf3025626b5148c9084a6607940a8f5edef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0%201969.%2050%D1%8568,5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -501,9 +546,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Двойной портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWtGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee782ac1d8393106b02f3cccc3a53557ee722ea6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%B1%D1%83%D1%87.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWtGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee782ac1d8393106b02f3cccc3a53557ee722ea6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEwTml3Z01qQTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--be15f9963a3fc5c7eb25b6203a9d1724dccf91fd/%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%B1%D1%83%D1%87.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/37/show_painting?locale=en",
-    "alt": "Всевобуч from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Всевобуч from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWtGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ee782ac1d8393106b02f3cccc3a53557ee722ea6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%B1%D1%83%D1%87.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -512,9 +558,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1937-2007)",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--42b6430a1835ee90c9a062e2892c3b5d2a354c07/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%B2%D0%B0%20%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%20.11353-2817%D0%B6.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--42b6430a1835ee90c9a062e2892c3b5d2a354c07/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFU0TlN3Z016RTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--4b674d985d95fc3e35d794b26795016fd85b14b0/%D0%94%D0%B2%D0%B0%20%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%20.11353-2817%D0%B6.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1203/show_painting?locale=en",
-    "alt": "Два верблюда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Два верблюда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--42b6430a1835ee90c9a062e2892c3b5d2a354c07/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%B2%D0%B0%20%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%20.11353-2817%D0%B6.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -523,9 +570,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm9MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5cc2814ebe622a2286ed8797fccf966dd215c27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0.1513%D0%B6.jpg",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm9MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5cc2814ebe622a2286ed8797fccf966dd215c27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPVGN5TENBeE9UUXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5028e5c1f5983230260611cc98a47ce2aea74ace/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0.1513%D0%B6.jpg",
     "recordUrl": "https://artmuseum.kg/galleries/1293/show_painting?locale=en",
-    "alt": "Встреча from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Встреча from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm9MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5cc2814ebe622a2286ed8797fccf966dd215c27/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0.1513%D0%B6.jpg"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -534,9 +582,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZE09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d24f6b509988902695f2aedaadea225984da1708/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%B0%20%D0%B2%20%D0%B3%D0%BE%D1%80%D0%B0%D1%85.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZE09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d24f6b509988902695f2aedaadea225984da1708/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdNekUzTENBMk15d2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--930cff663e438806ac51db9401de79a4d361d9f6/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%B0%20%D0%B2%20%D0%B3%D0%BE%D1%80%D0%B0%D1%85.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/54/show_painting?locale=en",
-    "alt": "Кукуруза в горах from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Кукуруза в горах from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZE09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d24f6b509988902695f2aedaadea225984da1708/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%B0%20%D0%B2%20%D0%B3%D0%BE%D1%80%D0%B0%D1%85.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -545,9 +594,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8335b95d26f64be9a02d6ba92cd0b62273350f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0.3193%D0%B6.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8335b95d26f64be9a02d6ba92cd0b62273350f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPRFkzTENBeE56TXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--75b8f276583f494ebf378c79b2c06825809e7e6c/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0.3193%D0%B6.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1294/show_painting?locale=en",
-    "alt": "Встреча from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Встреча from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8335b95d26f64be9a02d6ba92cd0b62273350f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0.3193%D0%B6.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -556,9 +606,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbndMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff1c6790b350cc6a117b99c2dea1dded7428b03b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C%20%D0%BF%D1%80%D0%BE-%D1%86%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbndMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff1c6790b350cc6a117b99c2dea1dded7428b03b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPRGswTENBeE56a3NJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c05d3fe1c1b27175e6c1b2b66369b1d7b9b5d6ad/%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C%20%D0%BF%D1%80%D0%BE-%D1%86%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1295/show_painting?locale=en",
-    "alt": "Гибель продотряда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Гибель продотряда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbndMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff1c6790b350cc6a117b99c2dea1dded7428b03b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%8C%20%D0%BF%D1%80%D0%BE-%D1%86%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -567,9 +618,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f5ad06be61f3e8bedc4b31b27dd3af86a894fdc1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D0%B4%D1%8B%20%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B.%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BB%D0%BE%D1%81%D1%8C%D0%B5%D0%B2.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f5ad06be61f3e8bedc4b31b27dd3af86a894fdc1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdOemszTENBeE5Ua3NJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--e0f697b3eeaa3adcf92778aeaf0a56fca84bd3b8/%D0%93%D0%BE%D0%B4%D1%8B%20%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B.%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BB%D0%BE%D1%81%D1%8C%D0%B5%D0%B2.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1296/show_painting?locale=en",
-    "alt": "Годы войны. Сбор колосьев from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Годы войны. Сбор колосьев from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f5ad06be61f3e8bedc4b31b27dd3af86a894fdc1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D0%B4%D1%8B%20%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B.%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BB%D0%BE%D1%81%D1%8C%D0%B5%D0%B2.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -578,9 +630,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1708464a4b0737272dc2beec5e6c444bf87c335d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%B9%20.2025.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1708464a4b0737272dc2beec5e6c444bf87c335d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPVEl5TENBeE9EUXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--8ec60b93526174bb9f42cc2eb42ea169b9824864/%D0%94%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%B9%20.2025.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1297/show_painting?locale=en",
-    "alt": "Девушка с книгой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Девушка с книгой from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1708464a4b0737272dc2beec5e6c444bf87c335d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%B9%20.2025.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -589,9 +642,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Двойной портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b93c83e5c4a3ca1a0299183aa142c40ab07d2914/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%20%D0%BF%D0%BB%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8.3369%D0%B6.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b93c83e5c4a3ca1a0299183aa142c40ab07d2914/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPRGN6TENBeE56VXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--8543871c3c3f625f341b73462489a9767c795e1a/%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%20%D0%BF%D0%BB%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8.3369%D0%B6.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1298/show_painting?locale=en",
-    "alt": "Девушка с плодами from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Девушка с плодами from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b93c83e5c4a3ca1a0299183aa142c40ab07d2914/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%20%D0%BF%D0%BB%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8.3369%D0%B6.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -600,9 +654,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--205e1d825e8da5ea771d2974b467994269f989b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1969.21%D1%8527.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--205e1d825e8da5ea771d2974b467994269f989b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEwT1N3Z01qRXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--4c9ccc3c5e799968d468f3c3df110a6a185d9e02/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1969.21%D1%8527.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/226/show_painting?locale=en",
-    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--205e1d825e8da5ea771d2974b467994269f989b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1969.21%D1%8527.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -611,9 +666,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba8065e18f3db7c13f8bfef4b5a2d61b79a7d501/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B1%D0%BE%D1%80%20%D1%85%D0%BB%D0%BE%D0%BF%D0%BA%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba8065e18f3db7c13f8bfef4b5a2d61b79a7d501/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE1TXl3Z01qRTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--50dde0bc33e97f3360809a244a48afbf0d52295b/%D0%A1%D0%B1%D0%BE%D1%80%20%D1%85%D0%BB%D0%BE%D0%BF%D0%BA%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/26/show_painting?locale=en",
-    "alt": "Сбор хлопка. На хлопковом поле from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Сбор хлопка. На хлопковом поле from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba8065e18f3db7c13f8bfef4b5a2d61b79a7d501/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B1%D0%BE%D1%80%20%D1%85%D0%BB%D0%BE%D0%BF%D0%BA%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -622,9 +678,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Двойной портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85996a82411862916eb9590564fcf68fd02e8038/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%D1%84%D1%80%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8.3224%D0%B6.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85996a82411862916eb9590564fcf68fd02e8038/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPREU1TENBeE5qUXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--2b9f26b2d7eb2a2ebe0c6d72dafe0346fec18ed0/%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%D1%84%D1%80%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8.3224%D0%B6.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1299/show_painting?locale=en",
-    "alt": "Девушка с фруктами from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Девушка с фруктами from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85996a82411862916eb9590564fcf68fd02e8038/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D1%81%D1%84%D1%80%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8.3224%D0%B6.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -633,9 +690,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7f47376bed00e5696935cf4ab67c9ae12830e051/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%B3%D0%BE.2624.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7f47376bed00e5696935cf4ab67c9ae12830e051/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdOemMyTENBeE5UVXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--377503ec8fe9d5de25b7a29e882db1e343b29800/%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%B3%D0%BE.2624.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1300/show_painting?locale=en",
-    "alt": "Из прошлого from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Из прошлого from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7f47376bed00e5696935cf4ab67c9ae12830e051/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%B3%D0%BE.2624.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -644,9 +702,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2726492439914b4021edc4e17f9c22abe7c1b39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%20%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2726492439914b4021edc4e17f9c22abe7c1b39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3TUN3Z01qSXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ec4451e697e1c964631e57508453ee1a3fb297e6/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%20%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/38/show_painting?locale=en",
-    "alt": "Высокогорный пейзаж from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Высокогорный пейзаж from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2726492439914b4021edc4e17f9c22abe7c1b39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%20%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -655,9 +714,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Морской пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--52aab002687f842e562f8006963e79e66e6ca69a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D1%83%D1%85%D1%82%D0%B0%20%D0%A1%D1%83%D1%85%D0%BE%D0%B9%20%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--52aab002687f842e562f8006963e79e66e6ca69a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPRFkyTENBeE56TXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--29fa3270f51313d326921cc51480abe7e67b0cb5/%D0%91%D1%83%D1%85%D1%82%D0%B0%20%D0%A1%D1%83%D1%85%D0%BE%D0%B9%20%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/188/show_painting?locale=en",
-    "alt": "Бухта «Сухой хребет» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Бухта «Сухой хребет» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--52aab002687f842e562f8006963e79e66e6ca69a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D1%83%D1%85%D1%82%D0%B0%20%D0%A1%D1%83%D1%85%D0%BE%D0%B9%20%D1%85%D1%80%D0%B5%D0%B1%D0%B5%D1%82.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -666,9 +726,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ba3c9cb1640d7450c0242dfbd4df12f852ac3b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D1%83%D1%85%D1%82%D0%B0%20%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ba3c9cb1640d7450c0242dfbd4df12f852ac3b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEzT0N3Z01qRTJMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--9c940f09f8dc6cccb37ce37853a09dbae24e62a4/%D0%91%D1%83%D1%85%D1%82%D0%B0%20%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/189/show_painting?locale=en",
-    "alt": "Бухта Чехова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Бухта Чехова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7ba3c9cb1640d7450c0242dfbd4df12f852ac3b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D1%83%D1%85%D1%82%D0%B0%20%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -677,9 +738,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "-",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--db447f8e7e31fdd83eb84f792449eeebd8af9ff0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.%201966..JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--db447f8e7e31fdd83eb84f792449eeebd8af9ff0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFk1T1N3Z016UXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--44a6de200ccc8c745ce0db7ef33b31e6708a584a/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.%201966..JPG",
     "recordUrl": "https://artmuseum.kg/galleries/225/show_painting?locale=en",
-    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--db447f8e7e31fdd83eb84f792449eeebd8af9ff0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.%201966..JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -688,9 +750,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGNHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6ec33422f6815e9d43f9a6a5f6847f3fa45eb30/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D1%87%D0%BA%D0%B0.1977.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGNHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6ec33422f6815e9d43f9a6a5f6847f3fa45eb30/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV5TkN3Z01qSTFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--f6bbef87c66da5023ee6e7bb99ee5e19265dd06f/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D1%87%D0%BA%D0%B0.1977.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/40/show_painting?locale=en",
-    "alt": "Горная речка from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Горная речка from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGNHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d6ec33422f6815e9d43f9a6a5f6847f3fa45eb30/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D1%87%D0%BA%D0%B0.1977.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -699,9 +762,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0lMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5dc85855f03a6d503cca89ab0c3ca3873ef6f5da/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5.3060.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0lMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5dc85855f03a6d503cca89ab0c3ca3873ef6f5da/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdOemM1TENBeE5UWXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--e4a247b0ddc74cb2497dbc1b572093072a592ced/%D0%98%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5.3060.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1301/show_painting?locale=en",
-    "alt": "Избиение from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Избиение from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0lMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5dc85855f03a6d503cca89ab0c3ca3873ef6f5da/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5.3060.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -710,9 +774,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBmdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2acc38a333aeeee3ce3caa6eeb6a010a7867bdfc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBmdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2acc38a333aeeee3ce3caa6eeb6a010a7867bdfc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdNekU1TENBMk5Dd2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c253406a38bfa862d82875a6ee487ef1df99c105/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/39/show_painting?locale=en",
-    "alt": "Горная долина from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Горная долина from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBmdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2acc38a333aeeee3ce3caa6eeb6a010a7867bdfc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -721,9 +786,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Пейзаж",
     "medium": "Холст, картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3ecc41481d61d2b2f7c327a2a48954de0e316d5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%80%D0%B1%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3ecc41481d61d2b2f7c327a2a48954de0e316d5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3TWl3Z01qSXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6eccb595683b1606a58002fb650637bac8cd304c/%D0%92%D0%B5%D1%80%D0%B1%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/31/show_painting?locale=en",
-    "alt": "Вербы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вербы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3ecc41481d61d2b2f7c327a2a48954de0e316d5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%80%D0%B1%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -732,9 +798,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91d2b2a123cee324e81c17bad5745c9440c5fcf1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D0%BE%D0%B7%D1%8B.1706.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91d2b2a123cee324e81c17bad5745c9440c5fcf1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPRFEzTENBeE5qa3NJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--b6604d73d0d28323c2e1a6965f7339621e9e04f1/%D0%9A%D0%BE%D0%B7%D1%8B.1706.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1302/show_painting?locale=en",
-    "alt": "Козы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Козы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01MIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91d2b2a123cee324e81c17bad5745c9440c5fcf1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D0%BE%D0%B7%D1%8B.1706.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -743,9 +810,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55e0351371498b51010b0656f2907bc1e1d3e48a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D0%91%D0%B5%D1%80%D0%B8%D0%BA-%D0%A2%D0%B0%D1%88.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55e0351371498b51010b0656f2907bc1e1d3e48a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFk1TkN3Z016TTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--e51a29901d9a9adf1e9c6f7791ad5f67d911c2c2/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D0%91%D0%B5%D1%80%D0%B8%D0%BA-%D0%A2%D0%B0%D1%88.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/197/show_painting?locale=en",
-    "alt": "Вечерний Берик-Таш from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вечерний Берик-Таш from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55e0351371498b51010b0656f2907bc1e1d3e48a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D0%91%D0%B5%D1%80%D0%B8%D0%BA-%D0%A2%D0%B0%D1%88.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -754,9 +822,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1953",
     "genre": "Сельский пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbllJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c687fed9e1357e175811ef9f6067b0a250fe6ceb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9452%20%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C%20.14880.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbllJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c687fed9e1357e175811ef9f6067b0a250fe6ceb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV6TkN3Z01qSTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--2f223741e6f0b8567e074c5db64d63011dfccf98/261A9452%20%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C%20.14880.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/844/show_painting?locale=en",
-    "alt": "Лунная ночь from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Лунная ночь from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbllJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c687fed9e1357e175811ef9f6067b0a250fe6ceb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/261A9452%20%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C%20.14880.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -765,9 +834,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1913-1979)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5821b585bf4cbdc189aeacd8c507dff535311263/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA.%20%D0%AD%D1%82%D1%8E%D0%B4%20.23-23.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5821b585bf4cbdc189aeacd8c507dff535311263/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl6TlN3Z016STNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--7a7dc30e85c5a09f1b57580ae255300dd8212d96/%D0%9C%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA.%20%D0%AD%D1%82%D1%8E%D0%B4%20.23-23.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/917/show_painting?locale=en",
-    "alt": "Мальчик. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Мальчик. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5821b585bf4cbdc189aeacd8c507dff535311263/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA.%20%D0%AD%D1%82%D1%8E%D0%B4%20.23-23.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -776,9 +846,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1917-2008)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bbb2b28a482f194d8712f9566d7639e49f01949/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92.%20%D0%A1.%20%D0%A2%D1%8E%D1%80%D0%B8%D0%BD.%20%D0%A3%20%D0%BA%D0%BE%D1%88%D0%B0%D1%80%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bbb2b28a482f194d8712f9566d7639e49f01949/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdNek01TENBMk9Dd2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6d91bf78b15544e7a9d782358699058194b88e38/%D0%92.%20%D0%A1.%20%D0%A2%D1%8E%D1%80%D0%B8%D0%BD.%20%D0%A3%20%D0%BA%D0%BE%D1%88%D0%B0%D1%80%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/481/show_painting?locale=en",
-    "alt": "У кошары from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "У кошары from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bbb2b28a482f194d8712f9566d7639e49f01949/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92.%20%D0%A1.%20%D0%A2%D1%8E%D1%80%D0%B8%D0%BD.%20%D0%A3%20%D0%BA%D0%BE%D1%88%D0%B0%D1%80%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -787,9 +858,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1913-1979)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16b99c49b1b50e882e135a7f61f06250f47c7d77/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D1%82%D1%86%D1%8B%20%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9.5907.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16b99c49b1b50e882e135a7f61f06250f47c7d77/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFk1TWl3Z016TTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--79897d5f69e28bb7c566ec4f754ad866aa555cc6/%D0%9E%D1%82%D1%86%D1%8B%20%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9.5907.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/921/show_painting?locale=en",
-    "alt": "Отцы земли колхозной from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Отцы земли колхозной from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16b99c49b1b50e882e135a7f61f06250f47c7d77/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D1%82%D1%86%D1%8B%20%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9.5907.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -798,9 +870,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3153ecc113179a495df50353705539e5a16e3bdd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%BC%D0%B5%D0%B6%D0%B4%D0%BE%D1%83%D1%81%D0%BE%D0%B1%D0%B8%D1%86%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3153ecc113179a495df50353705539e5a16e3bdd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGMwTWl3Z016UTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a4db47f99fa3a901b2713b6b2563ca61a718c0b5/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%BC%D0%B5%D0%B6%D0%B4%D0%BE%D1%83%D1%81%D0%BE%D0%B1%D0%B8%D1%86%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/410/show_painting?locale=en",
-    "alt": "Эскиз к картине «Междоусобица» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Эскиз к картине «Междоусобица» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3153ecc113179a495df50353705539e5a16e3bdd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%81%D0%BA%D0%B8%D0%B7%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%BC%D0%B5%D0%B6%D0%B4%D0%BE%D1%83%D1%81%D0%BE%D0%B1%D0%B8%D1%86%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -809,9 +882,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8eecc7dce3d10362020f0108a48c242539193253/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%93%D0%BE%D1%80%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8eecc7dce3d10362020f0108a48c242539193253/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN3TkN3Z016UXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--74d80ac22030ba0dee62f16ae61a5b1a8d087966/%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%93%D0%BE%D1%80%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/414/show_painting?locale=en",
-    "alt": "Этюд к картине «Горы» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Этюд к картине «Горы» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8eecc7dce3d10362020f0108a48c242539193253/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%93%D0%BE%D1%80%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -820,9 +894,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e807d7264631d0687ec957a49070694073619f3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%82%D0%B8%D0%B2.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e807d7264631d0687ec957a49070694073619f3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF6T1N3Z01qQTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a0db6336b1993f5a0ca11147ca9b38aeb20d5b53/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%82%D0%B8%D0%B2.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/198/show_painting?locale=en",
-    "alt": "Вечерний мотив from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вечерний мотив from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e807d7264631d0687ec957a49070694073619f3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%82%D0%B8%D0%B2.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -831,9 +906,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b49069e945998bc086a88c53e17e8c1700634ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D1%8D%D1%82%D1%8E%D0%B4.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b49069e945998bc086a88c53e17e8c1700634ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPVFF6TENBeE9Ea3NJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--833b047b0ebd57fb60a0197bc00829db7e56273d/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D1%8D%D1%82%D1%8E%D0%B4.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/199/show_painting?locale=en",
-    "alt": "Вечерний этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вечерний этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b49069e945998bc086a88c53e17e8c1700634ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%20%D1%8D%D1%82%D1%8E%D0%B4.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -842,9 +918,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55af934b3695f99c1261156add464f38dd4388b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D1%83%D1%80%D0%B7%D1%83%D1%84.%201968.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55af934b3695f99c1261156add464f38dd4388b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkyT0N3Z016TTBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--9dc7787931580f3ed53ac5a1a8e1baf34c521230/%D0%93%D1%83%D1%80%D0%B7%D1%83%D1%84.%201968.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/847/show_painting?locale=en",
-    "alt": "Гурзуф from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Гурзуф from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55af934b3695f99c1261156add464f38dd4388b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D1%83%D1%80%D0%B7%D1%83%D1%84.%201968.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -853,9 +930,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1913-1979)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2tKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--055e757878f8f95582f839c68e3af8c88320e356/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D1%8C.6033.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2tKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--055e757878f8f95582f839c68e3af8c88320e356/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFUzTUN3Z016RTBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5f68d9f27564b251b014e6fe5f00cd61857c1dff/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D1%8C.6033.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/922/show_painting?locale=en",
-    "alt": "Память from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Память from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2tKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--055e757878f8f95582f839c68e3af8c88320e356/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D1%8C.6033.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -864,9 +942,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Бытовой",
     "medium": "Холст, картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--43ca1b3ec6b81e56f1aa97f1b98e0e8b1449e371/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--43ca1b3ec6b81e56f1aa97f1b98e0e8b1449e371/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV5TWl3Z016QTBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--68d32bddcf1151740af6171bbdf9bede22df1f52/%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/372/show_painting?locale=en",
-    "alt": "Дворик from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Дворик from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--43ca1b3ec6b81e56f1aa97f1b98e0e8b1449e371/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%94%D0%B2%D0%BE%D1%80%D0%B8%D0%BA.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -875,9 +954,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Сельский пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e5e9ab4af8716f70f46a9569cecfea46fdb5784/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%D1%8D%D1%82%D1%8E%D0%B4.%201958.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e5e9ab4af8716f70f46a9569cecfea46fdb5784/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFU0TkN3Z016RTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c0607b0289967c7139358d47b31c4dbdd8d2adc5/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%D1%8D%D1%82%D1%8E%D0%B4.%201958.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/375/show_painting?locale=en",
-    "alt": "Пейзаж. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Пейзаж. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e5e9ab4af8716f70f46a9569cecfea46fdb5784/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%D1%8D%D1%82%D1%8E%D0%B4.%201958.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -886,9 +966,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1902-1980)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--adead6386476ee47270c6f0c06fc009074d9a4d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%B4%20%D0%B3%D0%BE%D1%80%D0%B0%D0%BC%D0%B8%20(2).JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--adead6386476ee47270c6f0c06fc009074d9a4d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdNamswTENBMU9Td2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ebe57e41a8eac5952bb9c301eab2e957a5b3d80e/%D0%9F%D0%BE%D0%B4%20%D0%B3%D0%BE%D1%80%D0%B0%D0%BC%D0%B8%20(2).JPG",
     "recordUrl": "https://artmuseum.kg/galleries/528/show_painting?locale=en",
-    "alt": "Под горами from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Под горами from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0VFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--adead6386476ee47270c6f0c06fc009074d9a4d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%B4%20%D0%B3%D0%BE%D1%80%D0%B0%D0%BC%D0%B8%20(2).JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -897,9 +978,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1939- 1992)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb1cb328e7cab7c8aa736579790252f7ca1a6a67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%B0%20%D1%82%D1%80%D1%83%D0%B4%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb1cb328e7cab7c8aa736579790252f7ca1a6a67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl3T0N3Z016SXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--907ccad2948dc05249cb5d8d2b62d5a6b5b21429/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%B0%20%D1%82%D1%80%D1%83%D0%B4%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/163/show_painting?locale=en",
-    "alt": "Портрет ветерана труда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет ветерана труда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmdIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb1cb328e7cab7c8aa736579790252f7ca1a6a67/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%B0%20%D1%82%D1%80%D1%83%D0%B4%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -908,9 +990,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-1968)",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a8e1462312e24717c3540d136596fc843ebf394/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D1%80%D0%B0%D1%81%D1%81%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a8e1462312e24717c3540d136596fc843ebf394/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFExTUN3Z01qa3dMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--e140e732950b0ad8a03ea5cb8a39893abba5c39c/%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D1%80%D0%B0%D1%81%D1%81%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1189/show_painting?locale=en",
-    "alt": "Заводская трасса from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Заводская трасса from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a8e1462312e24717c3540d136596fc843ebf394/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D1%80%D0%B0%D1%81%D1%81%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -919,9 +1002,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Индустриальный пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd1c1f2a1eda15a405026f4ef46dd03c3bf6365e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd1c1f2a1eda15a405026f4ef46dd03c3bf6365e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3TVN3Z01qSXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1f1f9756cc4ade188eee77b3a6785e70e0229f69/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/186/show_painting?locale=en",
-    "alt": "Большой бетонный завод from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Большой бетонный завод from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dd1c1f2a1eda15a405026f4ef46dd03c3bf6365e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%B1%D0%B5%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -930,9 +1014,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Морской пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08a8771fe7497ff6c33ae4977556707ee7f4daf8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F%20%D0%90%D0%B4%D0%B0%D0%BB%D0%B0%D1%80%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08a8771fe7497ff6c33ae4977556707ee7f4daf8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl4TlN3Z016SXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--99da608f1794bd349fc22ce4af32cdc0ed2b5cad/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F%20%D0%90%D0%B4%D0%B0%D0%BB%D0%B0%D1%80%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/187/show_painting?locale=en",
-    "alt": "Братья Адалары from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Братья Адалары from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08a8771fe7497ff6c33ae4977556707ee7f4daf8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F%20%D0%90%D0%B4%D0%B0%D0%BB%D0%B0%D1%80%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -941,9 +1026,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1937-2007)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--46d4e9995e70f74815794360fe7a8b8492ffc9e5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D1%8B.%2012218-3099%D0%B6.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--46d4e9995e70f74815794360fe7a8b8492ffc9e5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV5TkN3Z016QTFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--975c110fe28fd352d9308f3418c4da285063a5fa/%D0%93%D0%BE%D1%80%D1%8B.%2012218-3099%D0%B6.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1202/show_painting?locale=en",
-    "alt": "Горы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Горы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEVMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--46d4e9995e70f74815794360fe7a8b8492ffc9e5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D1%8B.%2012218-3099%D0%B6.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -952,9 +1038,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e60c8a16827a1172f52df872c587cafc510d6d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.%20%201968.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e60c8a16827a1172f52df872c587cafc510d6d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFU1TkN3Z016RTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--2d672e946e76ed03a0aa1dbc03c149c18dac0b54/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.%20%201968.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/374/show_painting?locale=en",
-    "alt": "Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e60c8a16827a1172f52df872c587cafc510d6d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.%20%201968.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -963,9 +1050,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd9ecd4bda3bd4f87f6ccd98ca37bdbe7f61a1b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D1%8B%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%94%D0%B6%D0%B0%D1%80%D0%B3%D1%8B%D0%BB%D1%87%D0%B0%D0%BA.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd9ecd4bda3bd4f87f6ccd98ca37bdbe7f61a1b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdNemd3TENBM05pd2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a1efd0a099eee03c464b7ae73c8e20c312b88905/%D0%93%D0%BE%D1%80%D1%8B%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%94%D0%B6%D0%B0%D1%80%D0%B3%D1%8B%D0%BB%D1%87%D0%B0%D0%BA.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/201/show_painting?locale=en",
-    "alt": "Горы. Большой Джаргылчак from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Горы. Большой Джаргылчак from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd9ecd4bda3bd4f87f6ccd98ca37bdbe7f61a1b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%93%D0%BE%D1%80%D1%8B%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%94%D0%B6%D0%B0%D1%80%D0%B3%D1%8B%D0%BB%D1%87%D0%B0%D0%BA.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -974,9 +1062,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8fdc33cee5a0bcb3f6c3bb2f6b98bac1d5514452/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8.%20%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8fdc33cee5a0bcb3f6c3bb2f6b98bac1d5514452/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFkzTUN3Z016TTBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--b43e0bd2fad1fe78bcd1a36b1fdf62ef383201e8/%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8.%20%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/183/show_painting?locale=en",
-    "alt": "Ай-Петри. Виноградное поле from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Ай-Петри. Виноградное поле from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8fdc33cee5a0bcb3f6c3bb2f6b98bac1d5514452/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D0%B9-%D0%9F%D0%B5%D1%82%D1%80%D0%B8.%20%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -985,9 +1074,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89590e91ffbebd7b292da68481c657b1c5af496f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D1%80%D1%81%D0%BB%D0%B0%D0%BD%20-%D0%91%D0%B0%D0%B1.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89590e91ffbebd7b292da68481c657b1c5af496f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEExTWl3Z01qRXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--0ac7d21702744359cec1ad96ac258c462867d3b4/%D0%90%D1%80%D1%81%D0%BB%D0%B0%D0%BD%20-%D0%91%D0%B0%D0%B1.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/185/show_painting?locale=en",
-    "alt": "Арслан-Баб from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Арслан-Баб from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89590e91ffbebd7b292da68481c657b1c5af496f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D1%80%D1%81%D0%BB%D0%B0%D0%BD%20-%D0%91%D0%B0%D0%B1.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -996,9 +1086,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b07b3097caef66e35b610b381abb2b12bfdb0916/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%B3%D0%BE%D1%80%D0%BE%D1%85.%20%D0%AD%D1%82%D1%8E%D0%B4.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b07b3097caef66e35b610b381abb2b12bfdb0916/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEExTUN3Z01qRXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--b6f429e55fb037f8ad998e6028298f6ac70ae27b/%D0%92%20%D0%B3%D0%BE%D1%80%D0%BE%D1%85.%20%D0%AD%D1%82%D1%8E%D0%B4.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/190/show_painting?locale=en",
-    "alt": "В горах. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "В горах. Этюд from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b07b3097caef66e35b610b381abb2b12bfdb0916/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%B3%D0%BE%D1%80%D0%BE%D1%85.%20%D0%AD%D1%82%D1%8E%D0%B4.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1007,9 +1098,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6362acc0f88b3f46328dac6cac8373b984837045/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%BC%D0%B0%D1%80%D1%82%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6362acc0f88b3f46328dac6cac8373b984837045/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF3Tnl3Z01qQXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--50d1cab9b86454956fa647dcd2df76ba9bd0a4ba/%D0%92%20%D0%BC%D0%B0%D1%80%D1%82%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/191/show_painting?locale=en",
-    "alt": "В марте from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "В марте from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6362acc0f88b3f46328dac6cac8373b984837045/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%BC%D0%B0%D1%80%D1%82%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1018,9 +1110,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dbaab9ed8328a7f537517ae8d0b5984f516bdb7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%A7%D1%83%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dbaab9ed8328a7f537517ae8d0b5984f516bdb7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEwTlN3Z01qQTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--90240e7fe437fd73fcef6bdb3dfbd3cfd4e7ad29/%D0%92%20%D0%A7%D1%83%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/192/show_painting?locale=en",
-    "alt": "В Чуйской долине from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "В Чуйской долине from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8dbaab9ed8328a7f537517ae8d0b5984f516bdb7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%A7%D1%83%D0%B9%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1029,9 +1122,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1914-1968)",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b36c6f2652db200f3907b178e5183c0985182e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%BD%D0%B0%20%D0%BE%D1%82%D0%B3%D0%BE%D0%BD%D0%BD%D0%BE%D0%BC%20%D0%BF%D0%B0%D1%81%D1%82%D0%B1%D0%B8%D1%89%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b36c6f2652db200f3907b178e5183c0985182e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl4Tml3Z016SXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--f40458616a56704f604b3c8da36e6b82e5206a2d/%D0%BD%D0%B0%20%D0%BE%D1%82%D0%B3%D0%BE%D0%BD%D0%BD%D0%BE%D0%BC%20%D0%BF%D0%B0%D1%81%D1%82%D0%B1%D0%B8%D1%89%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1192/show_painting?locale=en",
-    "alt": "На отгонном пастбище from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "На отгонном пастбище from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b36c6f2652db200f3907b178e5183c0985182e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%BD%D0%B0%20%D0%BE%D1%82%D0%B3%D0%BE%D0%BD%D0%BD%D0%BE%D0%BC%20%D0%BF%D0%B0%D1%81%D1%82%D0%B1%D0%B8%D1%89%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1040,9 +1134,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6cb3f03b024b7a8ac7d3197b9dee98fecc4c46f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%20%D0%BD%D0%B0%20%D0%B4%D0%B6%D0%B0%D0%B9%D0%BB%D0%BE%D0%BE.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6cb3f03b024b7a8ac7d3197b9dee98fecc4c46f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE0TkN3Z01qRTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--cb8ce2285d7f5ac997994bd8c731024a69c674a2/%D0%92%D0%B5%D1%87%D0%B5%D1%80%20%D0%BD%D0%B0%20%D0%B4%D0%B6%D0%B0%D0%B9%D0%BB%D0%BE%D0%BE.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/194/show_painting?locale=en",
-    "alt": "Вечер на джайлоо from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вечер на джайлоо from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6cb3f03b024b7a8ac7d3197b9dee98fecc4c46f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80%20%D0%BD%D0%B0%20%D0%B4%D0%B6%D0%B0%D0%B9%D0%BB%D0%BE%D0%BE.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1051,9 +1146,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1941",
     "genre": "Групповой портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--45e8866da6c316de44f1a56382a9c3ff3d755627/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE%203232.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--45e8866da6c316de44f1a56382a9c3ff3d755627/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPRGc0TENBeE56Z3NJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--021e53cc418f8e8ccf1cb6b4b7d232818bdb9842/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE%203232.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1303/show_painting?locale=en",
-    "alt": "Материнство from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Материнство from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1FMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--45e8866da6c316de44f1a56382a9c3ff3d755627/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE%203232.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1062,9 +1158,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b03681d5c09fe002ec568564d24ab77281412edc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80.%201955.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b03681d5c09fe002ec568564d24ab77281412edc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEUxT1N3Z01qTXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--82c1011910fe44b5a2ae429198579df1edc25775/%D0%92%D0%B5%D1%87%D0%B5%D1%80.%201955.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/196/show_painting?locale=en",
-    "alt": "Вечер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вечер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b03681d5c09fe002ec568564d24ab77281412edc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%87%D0%B5%D1%80.%201955.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1073,9 +1170,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Морской пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--01acfa12de0c23fa6c746dd4c780238a4788a171/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1971.120%D1%85164.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--01acfa12de0c23fa6c746dd4c780238a4788a171/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3Tnl3Z01qSXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c41da652b9597f940166eceae381752a9b3fb9ae/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1971.120%D1%85164.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/227/show_painting?locale=en",
-    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Порт Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--01acfa12de0c23fa6c746dd4c780238a4788a171/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1971.120%D1%85164.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1084,9 +1182,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Исторический",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ed90883cb9773e7579fb19839193b7781c421aa2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C%20%D0%BF%D0%BE%D0%B4.%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%BC%20%D0%B2%D0%BE%D0%B7%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ed90883cb9773e7579fb19839193b7781c421aa2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN3TlN3Z016UXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--409fec915813412c22094d4959efbeef05a47a37/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C%20%D0%BF%D0%BE%D0%B4.%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%BC%20%D0%B2%D0%BE%D0%B7%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/222/show_painting?locale=en",
-    "alt": "Подпись под Стокгольмским воззванием from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Подпись под Стокгольмским воззванием from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ed90883cb9773e7579fb19839193b7781c421aa2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C%20%D0%BF%D0%BE%D0%B4.%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%BC%20%D0%B2%D0%BE%D0%B7%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1095,9 +1194,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2NJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2614617edb13bac234b4b4068a34cf41118fb538/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2NJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2614617edb13bac234b4b4068a34cf41118fb538/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFUyTlN3Z016RXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--88ea2088fb4c0302652ae77dd2cc8f98cbde0b0f/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/376/show_painting?locale=en",
-    "alt": "Пенсионер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Пенсионер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2NJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2614617edb13bac234b4b4068a34cf41118fb538/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1106,9 +1206,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--99c1db76bf61f8837fbd4712966670ca3fbdcf71/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%20%D0%90%D1%82%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--99c1db76bf61f8837fbd4712966670ca3fbdcf71/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN4TUN3Z016UXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6cb6b790c5b7ac48e5f14dc6c86e2a5b8ab7c529/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%20%D0%90%D1%82%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/212/show_painting?locale=en",
-    "alt": "Манас-Ата from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Манас-Ата from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--99c1db76bf61f8837fbd4712966670ca3fbdcf71/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%20%D0%90%D1%82%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1117,9 +1218,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9520af8bd73cb97fc89bd336d623cd04e83425c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D0%B5%D1%80%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.%20%D0%A7%D0%B0%D0%B1%D0%B0%D0%BD.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9520af8bd73cb97fc89bd336d623cd04e83425c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdNell5TENBM01pd2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ca8bfd231e4dcc4b1179f17679951fb033d7558b/%D0%9A%D0%B5%D1%80%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.%20%D0%A7%D0%B0%D0%B1%D0%B0%D0%BD.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/209/show_painting?locale=en",
-    "alt": "Чабан from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Чабан from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9520af8bd73cb97fc89bd336d623cd04e83425c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9A%D0%B5%D1%80%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.%20%D0%A7%D0%B0%D0%B1%D0%B0%D0%BD.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1128,9 +1230,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Холст, картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0687d6692f3895649db6b11af20a3453f4d28442/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0687d6692f3895649db6b11af20a3453f4d28442/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE1T1N3Z01qSXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--70fdad7b11ef4c1d7313a117a7458851abffd4f5/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/211/show_painting?locale=en",
-    "alt": "Летний день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Летний день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0687d6692f3895649db6b11af20a3453f4d28442/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1139,9 +1242,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d006034ece2dca22b6c38d118e4174dc54f4ff8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B8%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C%20%D1%86%D0%B2%D0%B5%D1%82%D0%B5%D1%82.%20%D0%9F%D0%B0%D0%BC%D0%B8%D1%80.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d006034ece2dca22b6c38d118e4174dc54f4ff8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEUxTkN3Z01qTXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a08cc3189e170503df9befad9505ec50af5c4788/%D0%9C%D0%B8%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C%20%D1%86%D0%B2%D0%B5%D1%82%D0%B5%D1%82.%20%D0%9F%D0%B0%D0%BC%D0%B8%D1%80.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/213/show_painting?locale=en",
-    "alt": "Миндаль цветет. Памир from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Миндаль цветет. Памир from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d006034ece2dca22b6c38d118e4174dc54f4ff8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9C%D0%B8%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C%20%D1%86%D0%B2%D0%B5%D1%82%D0%B5%D1%82.%20%D0%9F%D0%B0%D0%BC%D0%B8%D1%80.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1150,9 +1254,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1913-1979)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ceab0aee77164bd7986ada6763395a7d47683bbe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BE%D0%B2.%204261.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ceab0aee77164bd7986ada6763395a7d47683bbe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFEwTkN3Z01qZzVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--63c27d1ce1f5c720882eb0a3c2067be127deb670/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BE%D0%B2.%204261.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/925/show_painting?locale=en",
-    "alt": "Праздник животноводов from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Праздник животноводов from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3dKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ceab0aee77164bd7986ada6763395a7d47683bbe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BE%D0%B2.%204261.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1161,9 +1266,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69b5183e53b589cf963d53b4478db3b5924b6ab2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%D1%88%D0%B0%20%D1%81%D0%BC%D0%B5%D0%BD%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69b5183e53b589cf963d53b4478db3b5924b6ab2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFE0T1N3Z01qazRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--dc0e1750b51d1247f278da959093a83ca2efebe3/%D0%9D%D0%B0%D1%88%D0%B0%20%D1%81%D0%BC%D0%B5%D0%BD%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/217/show_painting?locale=en",
-    "alt": "Наша смена from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Наша смена from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69b5183e53b589cf963d53b4478db3b5924b6ab2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%D1%88%D0%B0%20%D1%81%D0%BC%D0%B5%D0%BD%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1172,9 +1278,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--431ffe4eb0b281527dfad46e49da2e674565ffb5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B0%D1%81%D0%BC%D1%83%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--431ffe4eb0b281527dfad46e49da2e674565ffb5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV4TUN3Z016QXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--bd282b2c3077807a9d37aba5711884752ad1ebff/%D0%9F%D0%B0%D1%81%D0%BC%D1%83%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/219/show_painting?locale=en",
-    "alt": "Пасмурный день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Пасмурный день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--431ffe4eb0b281527dfad46e49da2e674565ffb5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B0%D1%81%D0%BC%D1%83%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1183,9 +1290,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e465746e111600f670cea4dbfc5d3e5bed02a56d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB%20%D0%9A%D0%B5%D0%B3%D0%B5%D1%82%D0%B8.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e465746e111600f670cea4dbfc5d3e5bed02a56d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFk1Tml3Z016TTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1074b1aa55a822cb0adaa7cc4d396773497f6cd0/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB%20%D0%9A%D0%B5%D0%B3%D0%B5%D1%82%D0%B8.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/221/show_painting?locale=en",
-    "alt": "Перевал Кегети from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Перевал Кегети from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e465746e111600f670cea4dbfc5d3e5bed02a56d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB%20%D0%9A%D0%B5%D0%B3%D0%B5%D1%82%D0%B8.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1194,9 +1302,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2063fc570e6ab9eb16a9e263f36d9f6a428852f2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2063fc570e6ab9eb16a9e263f36d9f6a428852f2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE0T0N3Z01qRTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--08c2c68c61770d267aee40de1915f305d4d9d051/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/223/show_painting?locale=en",
-    "alt": "Полдень from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Полдень from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2063fc570e6ab9eb16a9e263f36d9f6a428852f2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1205,9 +1314,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--457f5dd9097897d650859935546fda1150c4e79f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%201957.%2082%D1%85170.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--457f5dd9097897d650859935546fda1150c4e79f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF5TVN3Z01qQTBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--04f85306393ea7a891808adb5655ee0fdfd50ce8/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%201957.%2082%D1%85170.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/228/show_painting?locale=en",
-    "alt": "Порт Пржевальск from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Порт Пржевальск from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--457f5dd9097897d650859935546fda1150c4e79f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%201957.%2082%D1%85170.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1216,9 +1326,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d57d29e7c37a0e8af2b9fe3a4c9d4ae823b7a60/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%20%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%201955.21%D1%8570.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d57d29e7c37a0e8af2b9fe3a4c9d4ae823b7a60/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEyTlN3Z01qRXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--201447997367fea4ab90c3f0b1b891dd2be81796/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%20%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%201955.21%D1%8570.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/229/show_painting?locale=en",
-    "alt": "Порт Пржевальск. Этюд к картине «Порт Пржевальск» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Порт Пржевальск. Этюд к картине «Порт Пржевальск» from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d57d29e7c37a0e8af2b9fe3a4c9d4ae823b7a60/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%20%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.%201955.21%D1%8570.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1227,9 +1338,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2dDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6edef822cc26cc4c6719f6097998314c1da33e42/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.196.17,6%D1%8525.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2dDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6edef822cc26cc4c6719f6097998314c1da33e42/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdOREEwTENBNE1Td2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--0411c89ab1c1cb3b120fae07777c71853981ebb6/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.196.17,6%D1%8525.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/230/show_painting?locale=en",
-    "alt": "Порт Пржевальск from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Порт Пржевальск from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2dDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6edef822cc26cc4c6719f6097998314c1da33e42/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%20%D0%9F%D1%80%D0%B6%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D1%81%D0%BA.196.17,6%D1%8525.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1238,9 +1350,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--31b0b5f2155e366d7add63ac1647228b83d0d2e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B1%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--31b0b5f2155e366d7add63ac1647228b83d0d2e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE1Tml3Z01qRTVMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--fd656069c6dc800cc7bfdba59b9776b729601989/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B1%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/231/show_painting?locale=en",
-    "alt": "Портрет Молдобасанова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет Молдобасанова from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaEFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--31b0b5f2155e366d7add63ac1647228b83d0d2e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B1%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1249,9 +1362,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Портрет",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--23d28594eb062611040ae404ce5f56659c09005d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%91%D0%B0%D0%BA%D0%B0%D1%8F.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--23d28594eb062611040ae404ce5f56659c09005d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3TWl3Z01qSXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6eccb595683b1606a58002fb650637bac8cd304c/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%91%D0%B0%D0%BA%D0%B0%D1%8F.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/233/show_painting?locale=en",
-    "alt": "Портрет Бакая from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет Бакая from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--23d28594eb062611040ae404ce5f56659c09005d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%91%D0%B0%D0%BA%D0%B0%D1%8F.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1260,9 +1374,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8767d220a4e4df59721727a07d7b85afdafea179/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D1%82%D0%B0%D0%B1%D1%83%D0%BD%D1%89%D0%B8%D0%BA%D0%B0%20%D0%90%D0%BB%D1%8B%D0%BC%D0%BA%D1%83%D0%BB%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8767d220a4e4df59721727a07d7b85afdafea179/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV4TWl3Z01qSXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee612ab6d684e73a15a2339bbdae8f66c91411fb/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D1%82%D0%B0%D0%B1%D1%83%D0%BD%D1%89%D0%B8%D0%BA%D0%B0%20%D0%90%D0%BB%D1%8B%D0%BC%D0%BA%D1%83%D0%BB%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/234/show_painting?locale=en",
-    "alt": "Портрет табунщика Алымкула from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет табунщика Алымкула from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8767d220a4e4df59721727a07d7b85afdafea179/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D1%82%D0%B0%D0%B1%D1%83%D0%BD%D1%89%D0%B8%D0%BA%D0%B0%20%D0%90%D0%BB%D1%8B%D0%BC%D0%BA%D1%83%D0%BB%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1271,9 +1386,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaElKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f03fa7e27ad7376c8c3f143ec0dd8bd214a90d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A0%D0%B0%D1%85%D0%B0%D1%82.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaElKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f03fa7e27ad7376c8c3f143ec0dd8bd214a90d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN3TlN3Z016UXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--409fec915813412c22094d4959efbeef05a47a37/%D0%A0%D0%B0%D1%85%D0%B0%D1%82.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/235/show_painting?locale=en",
-    "alt": "Рахат from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Рахат from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaElKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f03fa7e27ad7376c8c3f143ec0dd8bd214a90d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A0%D0%B0%D1%85%D0%B0%D1%82.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1282,9 +1398,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa3078f6cc7c099fbefb5eefd94a0ff1f99a9548/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BA%D0%B8.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa3078f6cc7c099fbefb5eefd94a0ff1f99a9548/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPVGM0TENBeE9UWXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--2c1cd83f1c215a10df43fd4ebc50e332691cf9e1/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BA%D0%B8.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/236/show_painting?locale=en",
-    "alt": "Рыбаки from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Рыбаки from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa3078f6cc7c099fbefb5eefd94a0ff1f99a9548/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BA%D0%B8.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1293,9 +1410,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--758ceb28659e00c58e4ee4610916118c1d4c99c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B1%D0%BE%D1%80%20%D1%85%D0%BB%D0%BE%D0%BF%D0%BA%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--758ceb28659e00c58e4ee4610916118c1d4c99c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE0T1N3Z01qRTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6e76882bb0c885358f3785d3b2f4183e584441d1/%D0%A1%D0%B1%D0%BE%D1%80%20%D1%85%D0%BB%D0%BE%D0%BF%D0%BA%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/237/show_painting?locale=en",
-    "alt": "Сбор хлопка from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Сбор хлопка from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--758ceb28659e00c58e4ee4610916118c1d4c99c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B1%D0%BE%D1%80%20%D1%85%D0%BB%D0%BE%D0%BF%D0%BA%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1304,9 +1422,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Городской пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b9f70039e9655e89230dd201fdf0f35ceb16fd53/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%20%D0%B2%20%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D0%B3%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b9f70039e9655e89230dd201fdf0f35ceb16fd53/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGN4TkN3Z016UXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--64dcd3ac9fcab05a1201b239f18d5fcb93e50075/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%20%D0%B2%20%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D0%B3%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/238/show_painting?locale=en",
-    "alt": "Серый день в Паланге from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Серый день в Паланге from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b9f70039e9655e89230dd201fdf0f35ceb16fd53/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%20%D0%B2%20%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D0%B3%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1315,9 +1434,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--292bd018782470561b4dabe8988c0328b47bf867/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--292bd018782470561b4dabe8988c0328b47bf867/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl3TWl3Z016SXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c7e58cc05af2e43f2b440ed95c999857dcce9b83/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/239/show_painting?locale=en",
-    "alt": "Серый день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Серый день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--292bd018782470561b4dabe8988c0328b47bf867/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1326,9 +1446,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Исторический",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb5584162a7f07b0c516865617ffbc8985f55f05/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%20%D0%BD%D0%B0%20%D0%BF%D1%83%D1%82%D0%B8%20%D0%A2%D1%83%D1%80%D1%83%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb5584162a7f07b0c516865617ffbc8985f55f05/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYR2x0WVdkbElFOTJaWElnTWpBc01qQWdPVGM0TENBeE9UWXNJQ2N2YUc5dFpTOWhaRzFoY25RdmJYVnpaWFZ0TFV0T1RVbEpMMnhwWWk5aGMzTmxkSE12YVcxaFoyVnpMM2RoZEdWeWJXRnlhekl1Y0c1bkp3WTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--2c1cd83f1c215a10df43fd4ebc50e332691cf9e1/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%20%D0%BD%D0%B0%20%D0%BF%D1%83%D1%82%D0%B8%20%D0%A2%D1%83%D1%80%D1%83%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/240/show_painting?locale=en",
-    "alt": "Сталин на пути в Туруханский from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Сталин на пути в Туруханский from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdW9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb5584162a7f07b0c516865617ffbc8985f55f05/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%20%D0%BD%D0%B0%20%D0%BF%D1%83%D1%82%D0%B8%20%D0%A2%D1%83%D1%80%D1%83%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1337,9 +1458,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1af7f6220eac944ee0170b72e2359c72965844c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.1960.22%D1%8535,5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1af7f6220eac944ee0170b72e2359c72965844c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF3T0N3Z01qQXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--5882108b07568c2545ecc16bb208ea5b5f015cbd/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.1960.22%D1%8535,5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/207/show_painting?locale=en",
-    "alt": "Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Иссык-Куль from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1af7f6220eac944ee0170b72e2359c72965844c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%98%D1%81%D1%81%D1%8B%D0%BA-%D0%9A%D1%83%D0%BB%D1%8C.1960.22%D1%8535,5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1348,9 +1470,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Городской пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc5cef4dc22da10c4caae751172f6feb4af1dd82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1969.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc5cef4dc22da10c4caae751172f6feb4af1dd82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEyTnl3Z01qRXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--9ed0f1134768e350e2841b27818deb0d8568eb07/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1969.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/241/show_painting?locale=en",
-    "alt": "Старая Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Старая Клайпеда from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc5cef4dc22da10c4caae751172f6feb4af1dd82/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F%20%D0%9A%D0%BB%D0%B0%D0%B9%D0%BF%D0%B5%D0%B4%D0%B0.1969.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1359,9 +1482,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Индустриальный пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e46d270734eb47730c87ecd55a89d9a4d79a4b73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%A2%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%93%D0%AD%D0%A1.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e46d270734eb47730c87ecd55a89d9a4d79a4b73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEEyTVN3Z01qRXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--bda8f9292c5cf258be5c01fcaa78ddbaa67bcf60/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%A2%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%93%D0%AD%D0%A1.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/243/show_painting?locale=en",
-    "alt": "Строительство Токтогульской ГЭС from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Строительство Токтогульской ГЭС from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e46d270734eb47730c87ecd55a89d9a4d79a4b73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%A2%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%93%D0%AD%D0%A1.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1370,9 +1494,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1930-1971)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6dcfdbc06b359fd857e0dbcba3bf75fafcbbd961/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D0%B8%D1%86%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6dcfdbc06b359fd857e0dbcba3bf75fafcbbd961/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEE0Tnl3Z01qRTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--b71b47f88bafe99734893be3bcb2abf369f46526/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D0%B8%D1%86%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/313/show_painting?locale=en",
-    "alt": "Портрет колхозницы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет колхозницы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTBIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6dcfdbc06b359fd857e0dbcba3bf75fafcbbd961/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D0%BD%D0%B8%D1%86%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1381,9 +1506,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "-",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2dJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60e314bb9ec3144bf451bcecd2f87038703cbed6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B8.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2dJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60e314bb9ec3144bf451bcecd2f87038703cbed6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl5TWl3Z016STBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--a15d5de7fa280d36f71fa57d7900bc31fdd34a6c/%D0%9F%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B8.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/379/show_painting?locale=en",
-    "alt": "Пограничники from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Пограничники from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2dJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60e314bb9ec3144bf451bcecd2f87038703cbed6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B8%D0%BA%D0%B8.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1392,9 +1518,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1930-1971)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97dfdf41b7b81b1fddd8e58726cf8ee901bc9565/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%B3%D0%BE%D1%80%D0%B0%D1%85.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97dfdf41b7b81b1fddd8e58726cf8ee901bc9565/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV4TXl3Z01qSXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--7e7261bd0644e07ecb0251404a66b9599328d35d/%D0%92%20%D0%B3%D0%BE%D1%80%D0%B0%D1%85.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/262/show_painting?locale=en",
-    "alt": "В горах from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "В горах from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0VIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97dfdf41b7b81b1fddd8e58726cf8ee901bc9565/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%20%D0%B3%D0%BE%D1%80%D0%B0%D1%85.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1403,9 +1530,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Портрет",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57f7e4e2ab5be1f6d757ea9a4963ccad347c84cf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%B0%20%20%20%20%20(%D0%96%D1%83%D1%80%D0%B7%D1%83%D0%B0%D0%BA%D0%BC%D0%B0%D1%82).%20%20%20%20%20%20%20%20%201951.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57f7e4e2ab5be1f6d757ea9a4963ccad347c84cf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFExTml3Z01qa3hMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--571dc6fceb43a6ae671e4bde01a66262c39c7068/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%B0%20%20%20%20%20(%D0%96%D1%83%D1%80%D0%B7%D1%83%D0%B0%D0%BA%D0%BC%D0%B0%D1%82).%20%20%20%20%20%20%20%20%201951.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/381/show_painting?locale=en",
-    "alt": "Портрет старика (Журзуакмат) from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Портрет старика (Журзуакмат) from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--57f7e4e2ab5be1f6d757ea9a4963ccad347c84cf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%20%20%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%B0%20%20%20%20%20(%D0%96%D1%83%D1%80%D0%B7%D1%83%D0%B0%D0%BA%D0%BC%D0%B0%D1%82).%20%20%20%20%20%20%20%20%201951.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1414,9 +1542,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f8a5df1868a82cc6596cce366f6a3398dcf84ed8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D0%BB%D1%83%D0%BF%D0%BA%D0%B8.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f8a5df1868a82cc6596cce366f6a3398dcf84ed8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV6T0N3Z016QTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--846a7c4d383415f669524e1cdf5cfb00f7f99dad/%D0%90%D0%BB%D1%83%D0%BF%D0%BA%D0%B8.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/370/show_painting?locale=en",
-    "alt": "Вид Алупки from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вид Алупки from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f8a5df1868a82cc6596cce366f6a3398dcf84ed8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%90%D0%BB%D1%83%D0%BF%D0%BA%D0%B8.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1425,9 +1554,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1930-1971)",
     "genre": "Натюрморт",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0lIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a0190dd03a3f1ef25eb77ed7b5654334cfde9d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%D1%82%D1%8E%D1%80%D0%BC%D0%BE%D1%80%D1%82.%20%D0%A0%D0%BE%D0%B7%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0lIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a0190dd03a3f1ef25eb77ed7b5654334cfde9d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEExTkN3Z01qRXhMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c3b2d7ee02c0a10041d417340e040c51c4e026e0/%D0%9D%D0%B0%D1%82%D1%8E%D1%80%D0%BC%D0%BE%D1%80%D1%82.%20%D0%A0%D0%BE%D0%B7%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/292/show_painting?locale=en",
-    "alt": "Натюрморт. Розы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Натюрморт. Розы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0lIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a0190dd03a3f1ef25eb77ed7b5654334cfde9d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9D%D0%B0%D1%82%D1%8E%D1%80%D0%BC%D0%BE%D1%80%D1%82.%20%D0%A0%D0%BE%D0%B7%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1436,9 +1566,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1902-1980)",
     "genre": "Пейзаж",
     "medium": "Холст, картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735cadfd98c7d2c19620d92cdf5266436d6c07e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D0%B2%D1%80%D0%B0%D0%B3%20(2).JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735cadfd98c7d2c19620d92cdf5266436d6c07e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lXMmx0WVdkbElFOTJaWElnTWpBc01qQWdNekV3TENBMk1pd2dKeTlvYjIxbEwyRmtiV0Z5ZEM5dGRYTmxkVzB0UzA1TlNVa3ZiR2xpTDJGemMyVjBjeTlwYldGblpYTXZkMkYwWlhKdFlYSnJNaTV3Ym1jbkJqc0hWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--eaca7721cd272937994ad8dd3e903c966d2fbe07/%D0%9E%D0%B2%D1%80%D0%B0%D0%B3%20(2).JPG",
     "recordUrl": "https://artmuseum.kg/galleries/526/show_painting?locale=en",
-    "alt": "Овраг from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Овраг from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735cadfd98c7d2c19620d92cdf5266436d6c07e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9E%D0%B2%D1%80%D0%B0%D0%B3%20(2).JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1447,9 +1578,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1935-1996",
     "genre": "Натюрморт",
     "medium": "Картон, темпера",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8db2d37256a12d5d3269e14f4a3fc62563a153b0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%C2%AB%D0%92%D0%B5%D1%87%D0%B5%D1%80%C2%BB%20(2).JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8db2d37256a12d5d3269e14f4a3fc62563a153b0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFV3TVN3Z016QXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c1124bc72ce02e765e9227e359bf2325aad3822d/%C2%AB%D0%92%D0%B5%D1%87%D0%B5%D1%80%C2%BB%20(2).JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1057/show_painting?locale=en",
-    "alt": "Вечер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Вечер from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8db2d37256a12d5d3269e14f4a3fc62563a153b0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%C2%AB%D0%92%D0%B5%D1%87%D0%B5%D1%80%C2%BB%20(2).JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1458,9 +1590,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1935-1996",
     "genre": "Пейзаж",
     "medium": "Картон, темпера",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--31f8a0c50defb57b789d01ad21457a7e62360e7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/1141-451.%20%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%B2%20%D0%B3%D0%BE%D1%80%D1%8B%20(2).JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--31f8a0c50defb57b789d01ad21457a7e62360e7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVGM0Tml3Z016VTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--bfce6362e3e680c4eab004a66883ff23aa5df5a7/1141-451.%20%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%B2%20%D0%B3%D0%BE%D1%80%D1%8B%20(2).JPG",
     "recordUrl": "https://artmuseum.kg/galleries/1058/show_painting?locale=en",
-    "alt": "Дорога в горы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Дорога в горы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--31f8a0c50defb57b789d01ad21457a7e62360e7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/1141-451.%20%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%B2%20%D0%B3%D0%BE%D1%80%D1%8B%20(2).JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1469,9 +1602,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Сельский пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec1bf049851c478633b52db4cc8b734c995bba24/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec1bf049851c478633b52db4cc8b734c995bba24/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl6TkN3Z016STNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--dde01ed3a93efdd5a257c9267103c692048c7e68/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/242/show_painting?locale=en",
-    "alt": "Старое дерево from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Старое дерево from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec1bf049851c478633b52db4cc8b734c995bba24/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B5%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1480,9 +1614,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5cbb02ce26d34edde656835a40149ff404c7f99e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%98%D1%81%D1%81%D1%8B%D0%BA%20-%D0%9A%D1%83%D0%BB%D0%B5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5cbb02ce26d34edde656835a40149ff404c7f99e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEV3TWl3Z01qSXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6eccb595683b1606a58002fb650637bac8cd304c/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%98%D1%81%D1%81%D1%8B%D0%BA%20-%D0%9A%D1%83%D0%BB%D0%B5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/244/show_painting?locale=en",
-    "alt": "Сумерки на Иссык-Куле from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Сумерки на Иссык-Куле from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5cbb02ce26d34edde656835a40149ff404c7f99e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%98%D1%81%D1%81%D1%8B%D0%BA%20-%D0%9A%D1%83%D0%BB%D0%B5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1491,9 +1626,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1921-1975)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fdce2093907812677fabbf0bef9746c6c2d44759/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fdce2093907812677fabbf0bef9746c6c2d44759/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl3TWl3Z016SXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c7e58cc05af2e43f2b440ed95c999857dcce9b83/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/380/show_painting?locale=en",
-    "alt": "Полдень from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Полдень from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fdce2093907812677fabbf0bef9746c6c2d44759/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1502,9 +1638,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1930-1971)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVFIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0ca3591a48bd594ca3394b3249e65b82f0badce1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVFIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0ca3591a48bd594ca3394b3249e65b82f0badce1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFUyTVN3Z016RXlMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6450657733a78d2d79f893d0285a004da33c8746/%D0%92%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/265/show_painting?locale=en",
-    "alt": "Ветреный день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Ветреный день from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVFIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0ca3591a48bd594ca3394b3249e65b82f0badce1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%92%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1513,9 +1650,10 @@ window.AITIEV_ARTWORKS = [
     "date": "1912-1984",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa987c690f310b032b2dac2642bed77d9a965d6f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AE%D1%80%D1%82%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa987c690f310b032b2dac2642bed77d9a965d6f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF4TkN3Z01qQXpMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--b22c5bac291eeaf68f43e8bc97f0738618305fe7/%D0%AE%D1%80%D1%82%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/119/show_painting?locale=en",
-    "alt": "Юрты from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Юрты from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa987c690f310b032b2dac2642bed77d9a965d6f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%AE%D1%80%D1%82%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1524,9 +1662,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Картон, масло",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4d952a1babe3a2f0555cea1cc37d16515bdc6b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A2%D0%BE%D0%BA%D0%BE%D0%B9%D0%BB%D1%83.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4d952a1babe3a2f0555cea1cc37d16515bdc6b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFl5TVN3Z016STBMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--44c0c8f1c6b15d3aac6a39c9d08bafff95d58ff1/%D0%A2%D0%BE%D0%BA%D0%BE%D0%B9%D0%BB%D1%83.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/246/show_painting?locale=en",
-    "alt": "Токойлу from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Токойлу from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4d952a1babe3a2f0555cea1cc37d16515bdc6b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A2%D0%BE%D0%BA%D0%BE%D0%B9%D0%BB%D1%83.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1535,9 +1674,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Индустриальный пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df75c763ff82e79aaabd900f9790493d4802901/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A2%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%93%D0%AD%D0%A1.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df75c763ff82e79aaabd900f9790493d4802901/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEUxTVN3Z01qTXdMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--77ba911862b693e15e584f910fd8aad9fb3be9b1/%D0%A2%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%93%D0%AD%D0%A1.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/247/show_painting?locale=en",
-    "alt": "Токтогульская ГЭС from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Токтогульская ГЭС from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df75c763ff82e79aaabd900f9790493d4802901/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A2%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%93%D0%AD%D0%A1.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1546,9 +1686,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--41aa2855353d0e7d14e84ceb31981e3545a3d295/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%20%D0%BF%D0%BE%D0%B4%D0%BD%D0%BE%D0%B6%D1%8C%D1%8F%20%D0%9F%D0%B0%D0%BC%D0%B8%D1%80%D0%B0.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--41aa2855353d0e7d14e84ceb31981e3545a3d295/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF5Tml3Z01qQTFMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c5e612fdca4be6df6d740a862581b44d2b706fe8/%D0%A3%20%D0%BF%D0%BE%D0%B4%D0%BD%D0%BE%D0%B6%D1%8C%D1%8F%20%D0%9F%D0%B0%D0%BC%D0%B8%D1%80%D0%B0.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/248/show_painting?locale=en",
-    "alt": "У подножья Памира from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "У подножья Памира from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--41aa2855353d0e7d14e84ceb31981e3545a3d295/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%20%D0%BF%D0%BE%D0%B4%D0%BD%D0%BE%D0%B6%D1%8C%D1%8F%20%D0%9F%D0%B0%D0%BC%D0%B8%D1%80%D0%B0.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1557,9 +1698,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Бытовой",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a43cf14efa61289341d175907ee282cc4fb78646/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A8%D0%B5%D1%84%D1%8B.%201960.40,5%D1%8572,5.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a43cf14efa61289341d175907ee282cc4fb78646/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF6TlN3Z01qQTNMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c73e617a446f3ceb1cd06a47af7104b6ef660b95/%D0%A8%D0%B5%D1%84%D1%8B.%201960.40,5%D1%8572,5.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/249/show_painting?locale=en",
-    "alt": "Шефы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Шефы from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a43cf14efa61289341d175907ee282cc4fb78646/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A8%D0%B5%D1%84%D1%8B.%201960.40,5%D1%8572,5.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1568,9 +1710,10 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Сельский пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e615eb746cdc013361f5503af41d34ecf2ca803/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BB%D1%8E%D1%86%D0%B5%D1%80%D0%BD%D1%8B.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e615eb746cdc013361f5503af41d34ecf2ca803/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVEF5T0N3Z01qQTJMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--6d6a3146509fd6f2de1b3357c062e36bbb5c1d81/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BB%D1%8E%D1%86%D0%B5%D1%80%D0%BD%D1%8B.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/250/show_painting?locale=en",
-    "alt": "Уборка люцерны from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Уборка люцерны from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e615eb746cdc013361f5503af41d34ecf2ca803/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BB%D1%8E%D1%86%D0%B5%D1%80%D0%BD%D1%8B.JPG"
   },
   {
     "museum": "Gapar Aitiev Kyrgyz National Museum of Fine Arts",
@@ -1579,8 +1722,9 @@ window.AITIEV_ARTWORKS = [
     "date": "(1922-1989)",
     "genre": "Пейзаж",
     "medium": "Canvas, oil",
-    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac3896bd8071eea5b6efd95891a7872f925df173/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%83%D1%80%D0%BE%D0%B6%D0%B0%D1%8F.JPG",
+    "imageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac3896bd8071eea5b6efd95891a7872f925df173/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2M2REdkeVlYWnBkSGxKSWc1VGIzVjBhRVZoYzNRR09nWkZWRG9KWkhKaGQwa2lYV2x0WVdkbElFOTJaWElnTWpBc01qQWdNVFUwTVN3Z016QTRMQ0FuTDJodmJXVXZZV1J0WVhKMEwyMTFjMlYxYlMxTFRrMUpTUzlzYVdJdllYTnpaWFJ6TDJsdFlXZGxjeTkzWVhSbGNtMWhjbXN5TG5CdVp5Y0dPd2RVIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--73ba3fb0ef80a4829ca05cad32049e1e0aedaf07/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%83%D1%80%D0%BE%D0%B6%D0%B0%D1%8F.JPG",
     "recordUrl": "https://artmuseum.kg/galleries/251/show_painting?locale=en",
-    "alt": "Уборка урожая from the Gapar Aitiev Kyrgyz National Museum of Fine Arts"
+    "alt": "Уборка урожая from the Gapar Aitiev Kyrgyz National Museum of Fine Arts",
+    "previewImageUrl": "https://artmuseum.kg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWdKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac3896bd8071eea5b6efd95891a7872f925df173/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MY21WemFYcGxTU0lNTXpBd2VEUTBOd1k2QmtWVU9oUmpiMjFpYVc1bFgyOXdkR2x2Ym5ON0J6b01aM0poZG1sMGVVa2lEbE52ZFhSb1JXRnpkQVk3QmxRNkNXUnlZWGRKSWxwcGJXRm5aU0JQZG1WeUlERXdMRFVnTVRRNUxDQXpNQ3dnSnk5b2IyMWxMMkZrYldGeWRDOXRkWE5sZFcwdFMwNU5TVWt2YkdsaUwyRnpjMlYwY3k5cGJXRm5aWE12ZDJGMFpYSnRZWEpyTWk1d2JtY25CanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--43f7c71ae39cc5db32ad98642d0e54ece2fefb0e/%D0%A3%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D1%83%D1%80%D0%BE%D0%B6%D0%B0%D1%8F.JPG"
   }
 ];
