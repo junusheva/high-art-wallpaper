@@ -215,9 +215,11 @@ button:focus-visible,
 .picture-frame {
   position: relative;
   overflow: hidden;
-  aspect-ratio: 3 / 2;
+  min-height: clamp(420px, 72vh, 900px);
   border-radius: 26px;
-  background: #dfd0b9;
+  background:
+    radial-gradient(circle at 50% 42%, rgba(255, 250, 241, 0.35), transparent 26rem),
+    #2a241c;
 }
 
 .picture-frame::after {
@@ -232,7 +234,7 @@ img {
   width: 100%;
   height: 100%;
   display: block;
-  object-fit: cover;
+  object-fit: contain;
   transition:
     opacity 220ms ease,
     transform 420ms ease;
