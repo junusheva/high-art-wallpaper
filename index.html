@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Random Picture Machine</title>
+    <link rel="preconnect" href="https://picsum.photos" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">Tiny website, infinite shuffle</p>
+        <h1 id="page-title">Random Picture Machine</h1>
+        <p class="intro">
+          Press the button and the page pulls in a fresh surprise image. That is
+          the entire deal. Honest little website.
+        </p>
+
+        <div class="actions">
+          <button id="randomize" type="button">Show me another</button>
+          <a href="#picture-card">See current picture</a>
+        </div>
+      </section>
+
+      <section id="picture-card" class="picture-card" aria-live="polite">
+        <div class="picture-frame">
+          <img
+            id="random-picture"
+            src="https://picsum.photos/seed/first-spark/1200/800"
+            alt="Random scenic placeholder"
+          />
+        </div>
+        <div class="caption-row">
+          <p id="caption">Current seed: first-spark</p>
+          <span>Powered by Picsum</span>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
