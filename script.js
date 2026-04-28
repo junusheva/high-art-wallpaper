@@ -10,6 +10,7 @@ const AIC_API = "https://api.artic.edu/api/v1";
 const CMA_API = "https://openaccess-api.clevelandart.org/api";
 const VAM_API = "https://api.vam.ac.uk/v2";
 const RIJKS_SEARCH_API = "https://data.rijksmuseum.nl/search/collection";
+const AITIEV_MANIFEST = "data/artmuseum-kg-paintings.json";
 
 const searchTerms = [
   "landscape",
@@ -34,6 +35,7 @@ const sources = [
   { id: "cma", name: "Cleveland Museum of Art", fetchArtwork: fetchCmaArtwork },
   { id: "vam", name: "Victoria and Albert Museum", fetchArtwork: fetchVamArtwork },
   { id: "rijks", name: "Rijksmuseum", fetchArtwork: fetchRijksArtwork },
+  { id: "aitiev", name: "Gapar Aitiev Museum", fetchArtwork: fetchAitievArtwork },
 ];
 
 function randomItem(items) {
@@ -265,6 +267,20 @@ async function fetchRijksArtwork() {
   }
 
   throw new Error("Rijksmuseum records found, but none had a usable image.");
+}
+
+async function fetchAitievArtwork() {
+  const artworks =
+    window.AITIEV_ARTWORKS ||
+    (await getJson(AITIEV_MANIFEST)).artworks ||
+    [];
+  const artwork = randomItem(artworks);
+
+  if (!artwork?.imageUrl) {
+    throw new Error("Aitiev manifest did not contain a usable image.");
+  }
+
+  return artwork;
 }
 
 function getSelectedSources() {

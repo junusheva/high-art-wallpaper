@@ -6,8 +6,24 @@ button. Images and artwork records come from
 [The Art Institute of Chicago API](https://api.artic.edu/docs/),
 [Cleveland Museum of Art Open Access API](https://openaccess-api.clevelandart.org/),
 [V&A Collections API](https://developers.vam.ac.uk/guide/v2/welcome.html), and
-[Rijksmuseum Data Services](https://data.rijksmuseum.nl/docs/), so there is no
+[Rijksmuseum Data Services](https://data.rijksmuseum.nl/docs/). It also includes a
+generated image manifest from the
+[Gapar Aitiev Kyrgyz National Museum of Fine Arts](https://artmuseum.kg/en/galleries/paintings),
+so there is no
 backend or API-key setup step.
+
+## Update scraped museum data
+
+The Aitiev Museum does not expose an API, so its image source is generated at
+build time from public gallery pages. This creates both JSON and JavaScript
+manifest files so the site works on GitHub Pages and from a local `file://`
+preview:
+
+```sh
+node scripts/scrape-artmuseum-kg.mjs
+```
+
+Set `MAX_PAGES=170` to refresh the full paintings gallery.
 
 ## Run it
 
