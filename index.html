@@ -3,37 +3,48 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Random Picture Machine</title>
-    <link rel="preconnect" href="https://picsum.photos" />
+    <title>Museum Picture Machine</title>
+    <link rel="preconnect" href="https://api.artic.edu" />
+    <link rel="preconnect" href="https://collectionapi.metmuseum.org" />
+    <link rel="preconnect" href="https://images.metmuseum.org" />
+    <link rel="preconnect" href="https://www.artic.edu" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <main class="page-shell">
       <section class="hero" aria-labelledby="page-title">
-        <p class="eyebrow">Tiny website, infinite shuffle</p>
-        <h1 id="page-title">Random Picture Machine</h1>
+        <p class="eyebrow">The Met + Art Institute of Chicago</p>
+        <h1 id="page-title">Museum Picture Machine</h1>
         <p class="intro">
-          Press the button and the page pulls in a fresh surprise image. That is
-          the entire deal. Honest little website.
+          Press the button and the page pulls a fresh artwork from two open
+          museum collections. A small art portal, basically. No velvet rope.
         </p>
 
         <div class="actions">
-          <button id="randomize" type="button">Show me another</button>
+          <button id="randomize" type="button">Find random art</button>
           <a href="#picture-card">See current picture</a>
         </div>
       </section>
 
       <section id="picture-card" class="picture-card" aria-live="polite">
+        <p id="museum-name" class="museum-name">Art Institute of Chicago</p>
         <div class="picture-frame">
           <img
             id="random-picture"
-            src="https://picsum.photos/seed/first-spark/1200/800"
-            alt="Random scenic placeholder"
+            src="https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/843,/0/default.jpg"
+            alt="Painting of a bedroom by Vincent van Gogh"
           />
         </div>
         <div class="caption-row">
-          <p id="caption">Current seed: first-spark</p>
-          <span>Powered by Picsum</span>
+          <p id="caption">The Bedroom by Vincent van Gogh, 1889</p>
+          <a
+            id="artwork-link"
+            href="https://www.artic.edu/artworks/28560/the-bedroom"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            View record
+          </a>
         </div>
       </section>
     </main>

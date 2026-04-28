@@ -1,7 +1,10 @@
-# Random Picture Machine
+# Museum Picture Machine
 
 A tiny static website that shows a random picture every time you press the
-button. Images come from [Picsum Photos](https://picsum.photos/), so there is no
+button. Images and artwork records come from
+[The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/)
+and the
+[Art Institute of Chicago API](https://api.artic.edu/docs/), so there is no
 backend or setup step.
 
 ## Run it
