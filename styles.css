@@ -48,6 +48,7 @@ body::before {
 }
 
 .hero {
+  min-width: 0;
   animation: rise-in 700ms ease both;
 }
 
@@ -62,10 +63,10 @@ body::before {
 }
 
 h1 {
-  max-width: 9ch;
+  max-width: 7.5ch;
   margin: 0;
-  font-size: clamp(4rem, 11vw, 8.6rem);
-  line-height: 0.82;
+  font-size: clamp(3.6rem, 8vw, 7rem);
+  line-height: 0.88;
   letter-spacing: -0.08em;
 }
 
@@ -79,11 +80,50 @@ h1 {
 }
 
 .actions {
-  margin-top: 32px;
+  margin-top: 18px;
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
   align-items: center;
+}
+
+.museum-picker {
+  max-width: 24rem;
+  margin-top: 28px;
+}
+
+.museum-picker label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--berry);
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.museum-picker select {
+  width: 100%;
+  min-height: 52px;
+  border: 1px solid rgba(33, 26, 18, 0.16);
+  border-radius: 18px;
+  padding: 0 42px 0 16px;
+  color: var(--ink);
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  background:
+    linear-gradient(45deg, transparent 50%, var(--leaf) 50%) right 18px center / 8px 8px no-repeat,
+    linear-gradient(135deg, var(--leaf) 50%, transparent 50%) right 12px center / 8px 8px no-repeat,
+    rgba(255, 250, 241, 0.76);
+  box-shadow: 0 12px 28px rgba(49, 35, 18, 0.08);
+  appearance: none;
+}
+
+.museum-picker select:focus-visible {
+  outline: 3px solid rgba(88, 125, 88, 0.45);
+  outline-offset: 4px;
 }
 
 button,
@@ -275,5 +315,20 @@ img.is-loading {
 
   .caption-row a {
     width: fit-content;
+  }
+}
+
+@media (min-width: 761px) and (max-width: 980px) {
+  .page-shell {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  h1 {
+    max-width: 9ch;
+  }
+
+  .intro {
+    max-width: 40rem;
   }
 }
