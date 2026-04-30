@@ -295,12 +295,14 @@ async function findRandomArtwork() {
   const selectedSources = getSelectedSources();
 
   for (const source of selectedSources) {
-    try {
-      const artwork = await source.fetchArtwork();
-      await preloadImage(artwork.imageUrl);
-      return artwork;
-    } catch (error) {
-      console.warn(`${source.name} did not return an artwork this time.`, error);
+    for (let attempt = 0; attempt < 4; attempt += 1) {
+      try {
+        const artwork = await source.fetchArtwork();
+        await preloadImage(artwork.imageUrl);
+        return artwork;
+      } catch (error) {
+        console.warn(`${source.name} did not return an artwork on attempt ${attempt + 1}.`, error);
+      }
     }
   }
 
