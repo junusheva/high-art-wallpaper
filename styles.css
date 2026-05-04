@@ -281,6 +281,68 @@ img.is-loading {
   outline-offset: 4px;
 }
 
+.sources-panel {
+  grid-column: 1 / -1;
+  padding: 24px;
+  border: 1px solid rgba(33, 26, 18, 0.1);
+  border-radius: 28px;
+  background: rgba(255, 250, 241, 0.48);
+  box-shadow: 0 18px 50px rgba(49, 35, 18, 0.1);
+  backdrop-filter: blur(14px);
+  animation: rise-in 700ms 220ms ease both;
+}
+
+.sources-panel h2 {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 3.6rem);
+  line-height: 0.98;
+  letter-spacing: -0.06em;
+}
+
+.source-list {
+  margin: 22px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  list-style: none;
+}
+
+.source-list li {
+  min-height: 64px;
+  display: flex;
+}
+
+.source-list a {
+  width: 100%;
+  padding: 16px 18px;
+  border: 1px solid rgba(33, 26, 18, 0.12);
+  border-radius: 18px;
+  color: var(--ink);
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-weight: 700;
+  line-height: 1.35;
+  text-decoration-color: rgba(33, 26, 18, 0.22);
+  text-underline-offset: 5px;
+  background: rgba(255, 250, 241, 0.68);
+  transition:
+    border-color 180ms ease,
+    transform 180ms ease,
+    background 180ms ease;
+}
+
+.source-list a:hover,
+.source-list a:focus-visible {
+  border-color: rgba(182, 75, 60, 0.34);
+  background: rgba(255, 250, 241, 0.94);
+  transform: translateY(-2px);
+}
+
+.source-list a:focus-visible {
+  outline: 3px solid rgba(88, 125, 88, 0.45);
+  outline-offset: 4px;
+}
+
 @keyframes rise-in {
   from {
     opacity: 0;
@@ -321,6 +383,15 @@ img.is-loading {
 
   .caption-row a {
     width: fit-content;
+  }
+
+  .sources-panel {
+    padding: 18px;
+    border-radius: 24px;
+  }
+
+  .source-list {
+    grid-template-columns: 1fr;
   }
 }
 
