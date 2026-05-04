@@ -11,6 +11,7 @@ const CMA_API = "https://openaccess-api.clevelandart.org/api";
 const VAM_API = "https://api.vam.ac.uk/v2";
 const RIJKS_SEARCH_API = "https://data.rijksmuseum.nl/search/collection";
 const AITIEV_MANIFEST = "data/artmuseum-kg-paintings.json";
+const TRETYAKOV_MANIFEST = "data/tretyakov-gallery.json";
 
 const searchTerms = [
   "landscape",
@@ -36,6 +37,7 @@ const sources = [
   { id: "vam", name: "Victoria and Albert Museum", fetchArtwork: fetchVamArtwork },
   { id: "rijks", name: "Rijksmuseum", fetchArtwork: fetchRijksArtwork },
   { id: "aitiev", name: "Gapar Aitiev Museum", fetchArtwork: fetchAitievArtwork },
+  { id: "tretyakov", name: "Tretyakov Gallery", fetchArtwork: fetchTretyakovArtwork },
 ];
 
 function randomItem(items) {
@@ -278,6 +280,20 @@ async function fetchAitievArtwork() {
 
   if (!artwork?.imageUrl) {
     throw new Error("Aitiev manifest did not contain a usable image.");
+  }
+
+  return artwork;
+}
+
+async function fetchTretyakovArtwork() {
+  const artworks =
+    window.TRETYAKOV_ARTWORKS ||
+    (await getJson(TRETYAKOV_MANIFEST)).artworks ||
+    [];
+  const artwork = randomItem(artworks);
+
+  if (!artwork?.imageUrl) {
+    throw new Error("Tretyakov manifest did not contain a usable image.");
   }
 
   return artwork;
