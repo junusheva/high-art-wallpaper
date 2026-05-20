@@ -2,8 +2,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 
 const BASE_URL = "https://artmuseum.kg";
 const START_URL = `${BASE_URL}/en/galleries/paintings`;
-const OUTPUT_PATH = new URL("../data/artmuseum-kg-paintings.json", import.meta.url);
-const JS_OUTPUT_PATH = new URL("../data/artmuseum-kg-paintings.js", import.meta.url);
+const OUTPUT_PATH = new URL("../public/data/artmuseum-kg-paintings.json", import.meta.url);
 const MAX_PAGES = Number.parseInt(process.env.MAX_PAGES || "12", 10);
 
 function decodeEntities(value) {
@@ -118,7 +117,7 @@ for (let page = 2; page <= lastPage; page += 1) {
 
 const artworks = await hydrateDetailImages(cardArtworks);
 
-await mkdir(new URL("../data", import.meta.url), { recursive: true });
+await mkdir(new URL("../public/data", import.meta.url), { recursive: true });
 const manifest = {
   source: START_URL,
   generatedAt: new Date().toISOString(),
@@ -127,10 +126,5 @@ const manifest = {
 };
 
 await writeFile(OUTPUT_PATH, `${JSON.stringify(manifest, null, 2)}\n`);
-await writeFile(
-  JS_OUTPUT_PATH,
-  `window.AITIEV_ARTWORKS = ${JSON.stringify(artworks, null, 2)};\n`
-);
 
 console.log(`Wrote ${artworks.length} artworks from ${lastPage} pages to ${OUTPUT_PATH.pathname}`);
-console.log(`Wrote local preview manifest to ${JS_OUTPUT_PATH.pathname}`);

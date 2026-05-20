@@ -2,8 +2,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 
 const COMMONS_API = "https://commons.wikimedia.org/w/api.php";
 const USER_AGENT = "MuseumPictureMachine/1.0 (https://junusheva.github.io/high-art-wallpaper/)";
-const OUTPUT_PATH = new URL("../data/tretyakov-gallery.json", import.meta.url);
-const JS_OUTPUT_PATH = new URL("../data/tretyakov-gallery.js", import.meta.url);
+const OUTPUT_PATH = new URL("../public/data/tretyakov-gallery.json", import.meta.url);
 const MAX_ARTWORKS = Number.parseInt(process.env.MAX_ARTWORKS || "120", 10);
 const THUMB_WIDTH = Number.parseInt(process.env.THUMB_WIDTH || "1600", 10);
 const CATEGORIES = [
@@ -195,7 +194,7 @@ for (const category of CATEGORIES) {
 
 const artworks = (await getImageInfo(files)).slice(0, MAX_ARTWORKS);
 
-await mkdir(new URL("../data", import.meta.url), { recursive: true });
+await mkdir(new URL("../public/data", import.meta.url), { recursive: true });
 
 const manifest = {
   source: "https://commons.wikimedia.org/wiki/Category:Paintings_in_the_Tretyakov_Gallery",
@@ -205,10 +204,5 @@ const manifest = {
 };
 
 await writeFile(OUTPUT_PATH, `${JSON.stringify(manifest, null, 2)}\n`);
-await writeFile(
-  JS_OUTPUT_PATH,
-  `window.TRETYAKOV_ARTWORKS = ${JSON.stringify(artworks, null, 2)};\n`
-);
 
 console.log(`Wrote ${artworks.length} Tretyakov artworks to ${OUTPUT_PATH.pathname}`);
-console.log(`Wrote local preview manifest to ${JS_OUTPUT_PATH.pathname}`);

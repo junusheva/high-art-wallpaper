@@ -1,17 +1,12 @@
-const picture = document.querySelector("#random-picture");
-const button = document.querySelector("#randomize");
-const caption = document.querySelector("#caption");
-const museumName = document.querySelector("#museum-name");
-const artworkLink = document.querySelector("#artwork-link");
-const museumSelect = document.querySelector("#museum-select");
+import type { Artwork, Manifest, MuseumId, MuseumSource } from "./types";
 
 const MET_API = "https://collectionapi.metmuseum.org/public/collection/v1";
 const AIC_API = "https://api.artic.edu/api/v1";
 const CMA_API = "https://openaccess-api.clevelandart.org/api";
 const VAM_API = "https://api.vam.ac.uk/v2";
 const RIJKS_SEARCH_API = "https://data.rijksmuseum.nl/search/collection";
-const AITIEV_MANIFEST = "data/artmuseum-kg-paintings.json";
-const TRETYAKOV_MANIFEST = "data/tretyakov-gallery.json";
+const AITIEV_MANIFEST = `${import.meta.env.BASE_URL}data/artmuseum-kg-paintings.json`;
+const TRETYAKOV_MANIFEST = `${import.meta.env.BASE_URL}data/tretyakov-gallery.json`;
 
 const searchTerms = [
   "landscape",
@@ -26,52 +21,148 @@ const searchTerms = [
   "garden",
   "horse",
   "moon",
-];
+] as const;
 
-const rijksTypes = ["painting", "print", "drawing", "photograph"];
+const rijksTypes = ["painting", "print", "drawing", "photograph"] as const;
 
-const sources = [
-  { id: "met", name: "The Met", fetchArtwork: fetchMetArtwork },
-  { id: "aic", name: "Art Institute of Chicago", fetchArtwork: fetchAicArtwork },
-  { id: "cma", name: "Cleveland Museum of Art", fetchArtwork: fetchCmaArtwork },
-  { id: "vam", name: "Victoria and Albert Museum", fetchArtwork: fetchVamArtwork },
-  { id: "rijks", name: "Rijksmuseum", fetchArtwork: fetchRijksArtwork },
-  { id: "aitiev", name: "Gapar Aitiev Museum", fetchArtwork: fetchAitievArtwork },
-  { id: "tretyakov", name: "Tretyakov Gallery", fetchArtwork: fetchTretyakovArtwork },
-];
+type MetSearchResponse = {
+  objectIDs?: number[];
+};
 
-function randomItem(items) {
+type MetObject = {
+  title?: string;
+  artistDisplayName?: string;
+  objectDate?: string;
+  primaryImage?: string;
+  primaryImageSmall?: string;
+  objectURL?: string;
+};
+
+type AicSearchResponse = {
+  pagination?: {
+    total_pages?: number;
+  };
+  config?: {
+    iiif_url?: string;
+  };
+  data?: Array<{
+    id: number;
+    title?: string;
+    artist_display?: string;
+    date_display?: string;
+    image_id?: string;
+    thumbnail?: {
+      alt_text?: string;
+    };
+  }>;
+};
+
+type CmaResponse = {
+  info?: {
+    total?: number;
+  };
+  data?: Array<{
+    title?: string;
+    creation_date?: string;
+    url?: string;
+    creators?: Array<{
+      description?: string;
+      name?: string;
+    }>;
+    images?: {
+      web?: {
+        url?: string;
+      };
+      print?: {
+        url?: string;
+      };
+    };
+  }>;
+};
+
+type VamResponse = {
+  info?: {
+    pages?: number;
+  };
+  records?: Array<{
+    systemNumber: string;
+    objectType?: string;
+    _primaryTitle?: string;
+    _primaryDate?: string;
+    _primaryImageId?: string;
+    _primaryMaker?: {
+      name?: string;
+    };
+  }>;
+};
+
+type RijksReference = {
+  id?: string;
+  type?: string;
+  content?: string;
+  _label?: string;
+  language?: RijksReference[];
+  referred_to_by?: RijksReference[];
+  identified_by?: RijksReference[];
+  timespan?: {
+    identified_by?: RijksReference[];
+  };
+  part?: RijksReference[];
+  digitally_carried_by?: RijksReference[];
+  access_point?: RijksReference[];
+  digitally_shown_by?: RijksReference[];
+};
+
+type RijksSearchResponse = {
+  orderedItems?: Array<{
+    id?: string;
+  }>;
+};
+
+type RijksArtwork = {
+  identified_by?: RijksReference[];
+  produced_by?: RijksReference;
+  shows?: Array<{
+    id?: string;
+  }>;
+  subject_of?: RijksReference[];
+};
+
+type RijksVisualItem = {
+  digitally_shown_by?: Array<{
+    id?: string;
+  }>;
+};
+
+type RijksDigitalObject = {
+  access_point?: Array<{
+    id?: string;
+  }>;
+};
+
+function randomItem<T>(items: readonly T[]): T {
   return items[Math.floor(Math.random() * items.length)];
 }
 
-function shuffle(items) {
+function shuffle<T>(items: readonly T[]): T[] {
   return [...items].sort(() => Math.random() - 0.5);
 }
 
-async function getJson(url) {
+function isDefined<T>(value: T | undefined): value is T {
+  return value !== undefined;
+}
+
+async function getJson<T>(url: string): Promise<T> {
   const response = await fetch(url);
 
   if (!response.ok) {
     throw new Error(`Request failed: ${response.status}`);
   }
 
-  return response.json();
+  return response.json() as Promise<T>;
 }
 
-function preloadImage(url) {
-  return new Promise((resolve, reject) => {
-    const nextImage = new Image();
-    nextImage.onload = resolve;
-    nextImage.onerror = reject;
-    nextImage.src = url;
-  });
-}
-
-function formatCredit(...parts) {
-  return parts.filter(Boolean).join(" | ");
-}
-
-function getEnglishName(items = []) {
+function getEnglishName(items: RijksReference[] = []): string | undefined {
   const names = items.filter((item) => item.type === "Name" && item.content);
   const englishName = names.find((item) =>
     item.language?.some(
@@ -82,11 +173,11 @@ function getEnglishName(items = []) {
   return englishName?.content || names[0]?.content;
 }
 
-function getRijksArtist(artwork) {
+function getRijksArtist(artwork: RijksArtwork): string {
   const productionParts = [
     ...(artwork.produced_by?.part || []),
     artwork.produced_by,
-  ].filter(Boolean);
+  ].filter(Boolean) as RijksReference[];
 
   for (const part of productionParts) {
     const name = getEnglishName(part.referred_to_by);
@@ -99,14 +190,14 @@ function getRijksArtist(artwork) {
   return "Unknown artist";
 }
 
-function getRijksDate(artwork) {
+function getRijksDate(artwork: RijksArtwork): string | undefined {
   return getEnglishName(artwork.produced_by?.timespan?.identified_by);
 }
 
-async function fetchMetArtwork() {
+async function fetchMetArtwork(): Promise<Artwork> {
   const term = randomItem(searchTerms);
   const searchUrl = `${MET_API}/search?hasImages=true&q=${encodeURIComponent(term)}`;
-  const results = await getJson(searchUrl);
+  const results = await getJson<MetSearchResponse>(searchUrl);
   const objectIds = results.objectIDs || [];
 
   if (!objectIds.length) {
@@ -115,7 +206,7 @@ async function fetchMetArtwork() {
 
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const objectId = randomItem(objectIds);
-    const artwork = await getJson(`${MET_API}/objects/${objectId}`);
+    const artwork = await getJson<MetObject>(`${MET_API}/objects/${objectId}`);
     const imageUrl = artwork.primaryImageSmall || artwork.primaryImage;
 
     if (imageUrl) {
@@ -125,7 +216,7 @@ async function fetchMetArtwork() {
         artist: artwork.artistDisplayName || "Unknown artist",
         date: artwork.objectDate,
         imageUrl,
-        recordUrl: artwork.objectURL,
+        recordUrl: artwork.objectURL || `${MET_API}/objects/${objectId}`,
         alt: `${artwork.title || "Artwork"} from The Met`,
       };
     }
@@ -134,15 +225,15 @@ async function fetchMetArtwork() {
   throw new Error("Met records found, but none had a usable image.");
 }
 
-async function fetchAicArtwork() {
+async function fetchAicArtwork(): Promise<Artwork> {
   const firstPageUrl = `${AIC_API}/artworks/search?query[term][is_public_domain]=true&fields=id,title,artist_display,date_display,image_id,thumbnail&limit=1&page=1`;
-  const firstPage = await getJson(firstPageUrl);
+  const firstPage = await getJson<AicSearchResponse>(firstPageUrl);
   const totalPages = Math.min(firstPage.pagination?.total_pages || 1, 10000);
 
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const page = Math.floor(Math.random() * totalPages) + 1;
     const artworkUrl = `${AIC_API}/artworks/search?query[term][is_public_domain]=true&fields=id,title,artist_display,date_display,image_id,thumbnail&limit=1&page=${page}`;
-    const result = await getJson(artworkUrl);
+    const result = await getJson<AicSearchResponse>(artworkUrl);
     const artwork = result.data?.[0];
 
     if (artwork?.image_id) {
@@ -163,15 +254,15 @@ async function fetchAicArtwork() {
   throw new Error("AIC records found, but none had a usable image.");
 }
 
-async function fetchCmaArtwork() {
+async function fetchCmaArtwork(): Promise<Artwork> {
   const firstPageUrl = `${CMA_API}/artworks/?cc0&has_image=1&limit=1&skip=0`;
-  const firstPage = await getJson(firstPageUrl);
+  const firstPage = await getJson<CmaResponse>(firstPageUrl);
   const total = firstPage.info?.total || 1;
 
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const skip = Math.floor(Math.random() * total);
     const artworkUrl = `${CMA_API}/artworks/?cc0&has_image=1&limit=1&skip=${skip}`;
-    const result = await getJson(artworkUrl);
+    const result = await getJson<CmaResponse>(artworkUrl);
     const artwork = result.data?.[0];
     const imageUrl = artwork?.images?.web?.url || artwork?.images?.print?.url;
 
@@ -187,7 +278,7 @@ async function fetchCmaArtwork() {
         artist: artist || "Unknown artist",
         date: artwork.creation_date,
         imageUrl,
-        recordUrl: artwork.url,
+        recordUrl: artwork.url || "https://clevelandart.org/art",
         alt: `${artwork.title || "Artwork"} from the Cleveland Museum of Art`,
       };
     }
@@ -196,15 +287,15 @@ async function fetchCmaArtwork() {
   throw new Error("CMA records found, but none had a usable image.");
 }
 
-async function fetchVamArtwork() {
+async function fetchVamArtwork(): Promise<Artwork> {
   const firstPageUrl = `${VAM_API}/objects/search?images_exist=1&page_size=1&page=1`;
-  const firstPage = await getJson(firstPageUrl);
+  const firstPage = await getJson<VamResponse>(firstPageUrl);
   const totalPages = firstPage.info?.pages || 1;
 
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const page = Math.floor(Math.random() * totalPages) + 1;
     const artworkUrl = `${VAM_API}/objects/search?images_exist=1&page_size=1&page=${page}`;
-    const result = await getJson(artworkUrl);
+    const result = await getJson<VamResponse>(artworkUrl);
     const artwork = result.records?.[0];
     const imageId = artwork?._primaryImageId;
 
@@ -224,11 +315,11 @@ async function fetchVamArtwork() {
   throw new Error("V&A records found, but none had a usable image.");
 }
 
-async function fetchRijksArtwork() {
+async function fetchRijksArtwork(): Promise<Artwork> {
   const type = randomItem(rijksTypes);
   const searchUrl = `${RIJKS_SEARCH_API}?imageAvailable=true&type=${encodeURIComponent(type)}`;
-  const results = await getJson(searchUrl);
-  const objectIds = results.orderedItems?.map((item) => item.id).filter(Boolean) || [];
+  const results = await getJson<RijksSearchResponse>(searchUrl);
+  const objectIds = results.orderedItems?.map((item) => item.id).filter(isDefined) || [];
 
   if (!objectIds.length) {
     throw new Error("No Rijksmuseum records found.");
@@ -236,21 +327,21 @@ async function fetchRijksArtwork() {
 
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const objectId = randomItem(objectIds);
-    const artwork = await getJson(objectId);
+    const artwork = await getJson<RijksArtwork>(objectId);
     const visualItemId = artwork.shows?.[0]?.id;
 
     if (!visualItemId) {
       continue;
     }
 
-    const visualItem = await getJson(visualItemId);
+    const visualItem = await getJson<RijksVisualItem>(visualItemId);
     const digitalObjectId = visualItem.digitally_shown_by?.[0]?.id;
 
     if (!digitalObjectId) {
       continue;
     }
 
-    const digitalObject = await getJson(digitalObjectId);
+    const digitalObject = await getJson<RijksDigitalObject>(digitalObjectId);
     const imageUrl = digitalObject.access_point?.[0]?.id;
 
     if (imageUrl) {
@@ -271,44 +362,54 @@ async function fetchRijksArtwork() {
   throw new Error("Rijksmuseum records found, but none had a usable image.");
 }
 
-async function fetchAitievArtwork() {
-  const artworks =
-    window.AITIEV_ARTWORKS ||
-    (await getJson(AITIEV_MANIFEST)).artworks ||
-    [];
-  const artwork = randomItem(artworks);
+async function fetchManifestArtwork(manifestUrl: string, sourceName: string): Promise<Artwork> {
+  const manifest = await getJson<Manifest>(manifestUrl);
+  const artwork = randomItem(manifest.artworks);
 
   if (!artwork?.imageUrl) {
-    throw new Error("Aitiev manifest did not contain a usable image.");
+    throw new Error(`${sourceName} manifest did not contain a usable image.`);
   }
 
   return artwork;
 }
 
-async function fetchTretyakovArtwork() {
-  const artworks =
-    window.TRETYAKOV_ARTWORKS ||
-    (await getJson(TRETYAKOV_MANIFEST)).artworks ||
-    [];
-  const artwork = randomItem(artworks);
-
-  if (!artwork?.imageUrl) {
-    throw new Error("Tretyakov manifest did not contain a usable image.");
-  }
-
-  return artwork;
+async function fetchAitievArtwork(): Promise<Artwork> {
+  return fetchManifestArtwork(AITIEV_MANIFEST, "Aitiev");
 }
 
-function getSelectedSources() {
-  if (museumSelect.value === "any") {
+async function fetchTretyakovArtwork(): Promise<Artwork> {
+  return fetchManifestArtwork(TRETYAKOV_MANIFEST, "Tretyakov");
+}
+
+export const sources: MuseumSource[] = [
+  { id: "met", name: "The Met", fetchArtwork: fetchMetArtwork },
+  { id: "aic", name: "Art Institute of Chicago", fetchArtwork: fetchAicArtwork },
+  { id: "cma", name: "Cleveland Museum of Art", fetchArtwork: fetchCmaArtwork },
+  { id: "vam", name: "Victoria and Albert Museum", fetchArtwork: fetchVamArtwork },
+  { id: "rijks", name: "Rijksmuseum", fetchArtwork: fetchRijksArtwork },
+  { id: "aitiev", name: "Gapar Aitiev Museum", fetchArtwork: fetchAitievArtwork },
+  { id: "tretyakov", name: "Tretyakov Gallery", fetchArtwork: fetchTretyakovArtwork },
+];
+
+export function getSelectedSources(selectedMuseum: MuseumId): MuseumSource[] {
+  if (selectedMuseum === "any") {
     return shuffle(sources);
   }
 
-  return sources.filter((source) => source.id === museumSelect.value);
+  return sources.filter((source) => source.id === selectedMuseum);
 }
 
-async function findRandomArtwork() {
-  const selectedSources = getSelectedSources();
+export function preloadImage(url: string): Promise<void> {
+  return new Promise((resolve, reject) => {
+    const nextImage = new Image();
+    nextImage.onload = () => resolve();
+    nextImage.onerror = reject;
+    nextImage.src = url;
+  });
+}
+
+export async function findRandomArtwork(selectedMuseum: MuseumId): Promise<Artwork> {
+  const selectedSources = getSelectedSources(selectedMuseum);
 
   for (const source of selectedSources) {
     for (let attempt = 0; attempt < 4; attempt += 1) {
@@ -324,34 +425,3 @@ async function findRandomArtwork() {
 
   throw new Error("No museum returned a usable artwork.");
 }
-
-function setLoading(isLoading) {
-  picture.classList.toggle("is-loading", isLoading);
-  museumSelect.disabled = isLoading;
-  button.disabled = isLoading;
-  button.textContent = isLoading ? "Walking the galleries..." : "Find random art";
-}
-
-function renderArtwork(artwork) {
-  picture.src = artwork.imageUrl;
-  picture.alt = artwork.alt;
-  museumName.textContent = artwork.museum;
-  caption.textContent = formatCredit(artwork.title, artwork.artist, artwork.date);
-  artworkLink.href = artwork.recordUrl;
-}
-
-async function showRandomPicture() {
-  setLoading(true);
-
-  try {
-    const artwork = await findRandomArtwork();
-    renderArtwork(artwork);
-  } catch (error) {
-    caption.textContent = "The museum gremlin misplaced the image. Try again.";
-    console.error(error);
-  } finally {
-    setLoading(false);
-  }
-}
-
-button.addEventListener("click", showRandomPicture);
